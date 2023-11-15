@@ -1,0 +1,3139 @@
+Number,BriefDescription,URL,Captions.txt,Captions.srt,GPT-4 Summary,Gpt-3.5 Turbo Summary,LLama 2 70b Summary,Bard Summary
+1,"MIT Open Course on Independence, Basis, and Dimension",https://www.youtube.com/watch?v=eeMJg4uI7o0,"""so as long as I'm introducing the idea
+of a vector space I better introduce the
+things that go with it the idea of its
+dimension and all-important the idea of
+a basis for that space that space could
+be all of three-dimensional space the
+space we live in in that case the
+dimension is 3 but what's the meaning of
+a basis a basis for three-dimensional
+space or a basis for other spaces ok so
+I have to explain independence basis and
+dimension dimension is easy if you get
+the first two ok independence and are
+those vectors independent well if I draw
+them in three dimensional space I can
+imagine two one five going in some
+direction let me draw it I was at two
+one five whatever grows there that's a
+one okay now is a two on the same line
+if a 2 is on the same line then it would
+be dependent the two vectors would be
+dependent if they're on the same line
+but this one is not on that line a four
+to zero so it doesn't go up at all it's
+it's somewhere in this plane four to
+zero I'll say there whatever a two so
+those are independent now where does so
+they their combinations
+give me a space they're combinations of
+a one and A two give me a plane a flat
+plane in three-dimensional space that
+plane is I would say they span the plane
+a one and A two span a plane
+and here's the keyword span so there are
+two vectors they're in three-dimensional
+space and the plane they span is all
+their combinations that's what we're
+always doing taking all the combinations
+of these vectors okay so so they're
+actually a 1 and a 2 are a basis for
+that plane a 1 and a 2 are a basis for
+that plane because they they're
+combinations fill the plane and also
+they're independent I need them both if
+I throw away one I would only have one
+vector left and it would only span a lie
+okay now let me bring in a third vector
+in three dimensions well what shall I
+take for that third vector huh suppose I
+take a 1 plus a 2 as my third vector so
+6 3 5 what about the vector 6 3 5 well
+what do I know it's obviously special
+it's a 1 plus a 2 it's in the same plane
+so if I took a 3 equal 6 3 5 that would
+be dependent if the three vectors would
+be dependent with that a 3 they would
+span the plane still they're
+combinations would still give the plane
+but they wouldn't be a basis for the
+plane a 1 and a 2 and a 3 together
+that's too much too many vectors for a
+single plane they're vectors are
+dependent and we don't a basis has to be
+independent vectors you have to need
+them all we don't need all three here so
+that's a dependent one it is it won't go
+in can't go into a basis with a 1 and a
+2 because the three vectors are
+dependent now let me make a different
+choice so that that was dead that did
+not do it all right let me take a 3
+equal some other not a combination of
+these but
+it off in some new direction well I
+don't know what that new direction is
+maybe 1 0-0 what the heck I believe hope
+I'm right that 1 0-0 is not a
+combination here I say 1 0-0 goes off
+it's pretty short there's a 3 better a 3
+then that loser 6 3 5 1 0 0 is a winner
+these three vectors so now a 1 a 2 and
+let me add in a 3 all three of them span
+a what do they span what are all the
+combinations of a 1 a 2 a 3 it's 3
+dimensional it's the whole 3 dimensional
+space they span all of 3d the whole
+3-dimensional space there a basis for
+the whole 3 dimensional space they're
+independent so let me you see that
+picture before I move it a 1 a 2 a 3 are
+independent no none of them is a
+combination of the others they fill a 3
+dimensional space
+they're a basis for that 3 dimensional
+space and that space is the hole in this
+example is the hole of our 3 so let me
+just write down on our next blackboards
+what I mean independent independent so
+independent columns of other matrix
+independent columns of a matrix a means
+the only solution to a V equals 0 is V
+equals so if I have independent columns
+then I haven't got any null space if I
+have independent columns then the null
+space of the matrix is just the 0 vector
+is the 0
+so that's this is let me write down that
+example again a was the matrix 2 1 5 4 2
+0 1 0 0
+I believe that matrix has independent
+columns so it's column space is the full
+three-dimensional space its null space
+only contains let me put it make that
+clear that that's a vector and and and
+now I'm ready to explain write down the
+idea of a basis so what is a basis for
+the further space a basis for I set a
+space sub space independent vectors
+that's the key independent vectors that
+span the space the subspace whatever it
+is by the way if the column space is all
+of three dimensional space as it is here
+that's a sub space - it's the whole
+space but the whole space counts as a
+sub space of itself and the 0 vector
+alone counts as the smallest possible so
+if we're in three dimensions the idea of
+sub spaces has we have just the 0 vector
+just one point that's the smallest we
+have the whole 3 dimensional space
+that's the biggest and then we have all
+the lines through 0 those are on the
+small side
+we have all the planes through 0 those
+are a little bit bigger so we have and
+those dimensions are 0 1 2 3 the
+possible
+dimensions it is told to us by how many
+basis vectors we need so let me look at
+that and then come to dimension okay so
+so independent means that the only no
+combination no other combination of the
+vectors no combination of these vectors
+gives the zero vector except to take
+zero of that zero of that and zero of
+that basis so those are those are a
+basis for the column space because
+they're independent and their
+combinations give the whole column space
+okay and now I wanted to say something
+about dimensions ok dimension it's a
+number it's the number of basis vectors
+for the subspace oh but you might say
+that the subspace has other bases not
+just the one you happen to think of
+first and I agree many different bases
+all I need for this example all I need
+for the to get a basis for in this case
+for three-dimensional space is I need
+three independent vectors any three but
+the point is the point about dimension
+is that I need exactly three I can never
+get two vectors that span all of our
+three and I can never get four vectors
+that are independent in r3 i if I have
+fewer than the Bay than the dimension
+number I don't have enough there they
+don't span if I have too many than the
+dimension they're independent there
+depend
+they won't they won't be independent
+they can't be a basis every basis every
+basis has the same number and that
+number is the dimension of the subspace
+alright let's just take an example just
+with a picture
+I'll stay in three-dimensional space but
+my subspace will just be a plane so here
+I'm in 3-dimensional space good now I
+have my subspace is a plane so it can go
+through the origin
+but it's only a plane so I'm expecting
+that I could take a vector in the in the
+plane and I could take another vector in
+the plane and they could be independent
+they are they're different directions
+but I couldn't find a third independent
+vector in the plane every basis for the
+plane so here every basis for the this
+plane contains two vectors always two
+and that number two is the dimension of
+a plane well I'm just saying the plane
+there is two-dimensional it's not the
+same as r2 it's not the same that plane
+is a plane in r3 it's not ordinary
+two-dimensional space but it has it's
+dimension is two because it takes any
+vector and if I didn't like the looks of
+this one
+well that's no problem I mean let me go
+that way that's just as good those two
+vectors are independent they span the
+plane they're a basis for the plane the
+plane is two-dimensional that's the set
+of key ideas independent span basis
+basis is fundamental basis is a bunch of
+vectors and dimension is how many
+vectors
+okay those are key ideas in linear
+algebra and you'll see them come into
+the big picture of linear algebra thank
+you""","00:06:33>00:06:40 0 1 0 0
+00:06:36>00:06:43 I believe that matrix has independent
+00:06:40>00:06:46 columns so it's column space is the full
+00:06:43>00:06:50 three-dimensional space its null space
+00:06:46>00:06:58 only contains let me put it make that
+00:06:50>00:07:03 clear that that's a vector and and and
+00:06:58>00:07:07 now I'm ready to explain write down the
+00:07:03>00:07:14 idea of a basis so what is a basis for
+00:07:07>00:07:22 the further space a basis for I set a
+00:07:14>00:07:31 space sub space independent vectors
+00:07:22>00:07:43 that's the key independent vectors that
+00:07:31>00:07:49 span the space the subspace whatever it
+00:07:43>00:07:52 is by the way if the column space is all
+00:07:49>00:07:56 of three dimensional space as it is here
+00:07:52>00:07:59 that's a sub space - it's the whole
+00:07:56>00:08:03 space but the whole space counts as a
+00:07:59>00:08:06 sub space of itself and the 0 vector
+00:08:03>00:08:08 alone counts as the smallest possible so
+00:08:06>00:08:12 if we're in three dimensions the idea of
+00:08:08>00:08:16 sub spaces has we have just the 0 vector
+00:08:12>00:08:18 just one point that's the smallest we
+00:08:16>00:08:20 have the whole 3 dimensional space
+00:08:18>00:08:25 that's the biggest and then we have all
+00:08:20>00:08:26 the lines through 0 those are on the
+00:08:25>00:08:29 small side
+00:08:26>00:08:31 we have all the planes through 0 those
+00:08:29>00:08:36 are a little bit bigger so we have and
+00:08:31>00:08:37 those dimensions are 0 1 2 3 the
+00:08:36>00:08:42 possible
+00:08:37>00:08:48 dimensions it is told to us by how many
+00:08:42>00:08:51 basis vectors we need so let me look at
+00:08:48>00:08:57 that and then come to dimension okay so
+00:08:51>00:09:00 so independent means that the only no
+00:08:57>00:09:02 combination no other combination of the
+00:09:00>00:09:06 vectors no combination of these vectors
+00:09:02>00:09:08 gives the zero vector except to take
+00:09:06>00:09:12 zero of that zero of that and zero of
+00:09:08>00:09:15 that basis so those are those are a
+00:09:12>00:09:18 basis for the column space because
+00:09:15>00:09:21 they're independent and their
+00:09:18>00:09:24 combinations give the whole column space
+00:09:21>00:09:31 okay and now I wanted to say something
+00:09:24>00:09:40 about dimensions ok dimension it's a
+00:09:31>00:09:40 number it's the number of basis vectors
+00:09:46>00:09:59 for the subspace oh but you might say
+00:09:55>00:10:01 that the subspace has other bases not
+00:09:59>00:10:04 just the one you happen to think of
+00:10:01>00:10:08 first and I agree many different bases
+00:10:04>00:10:14 all I need for this example all I need
+00:10:08>00:10:17 for the to get a basis for in this case
+00:10:14>00:10:19 for three-dimensional space is I need
+00:10:17>00:10:22 three independent vectors any three but
+00:10:19>00:10:26 the point is the point about dimension
+00:10:22>00:10:31 is that I need exactly three I can never
+00:10:26>00:10:34 get two vectors that span all of our
+00:10:31>00:10:38 three and I can never get four vectors
+00:10:34>00:10:40 that are independent in r3 i if I have
+00:10:38>00:10:43 fewer than the Bay than the dimension
+00:10:40>00:10:46 number I don't have enough there they
+00:10:43>00:10:48 don't span if I have too many than the
+00:10:46>00:10:49 dimension they're independent there
+00:10:48>00:10:52 depend
+00:10:49>00:10:57 they won't they won't be independent
+00:10:52>00:11:00 they can't be a basis every basis every
+00:10:57>00:11:07 basis has the same number and that
+00:11:00>00:11:07 number is the dimension of the subspace
+00:11:08>00:11:12 alright let's just take an example just
+00:11:10>00:11:15 with a picture
+00:11:12>00:11:19 I'll stay in three-dimensional space but
+00:11:15>00:11:22 my subspace will just be a plane so here
+00:11:19>00:11:26 I'm in 3-dimensional space good now I
+00:11:22>00:11:27 have my subspace is a plane so it can go
+00:11:26>00:11:31 through the origin
+00:11:27>00:11:33 but it's only a plane so I'm expecting
+00:11:31>00:11:36 that I could take a vector in the in the
+00:11:33>00:11:38 plane and I could take another vector in
+00:11:36>00:11:40 the plane and they could be independent
+00:11:38>00:11:43 they are they're different directions
+00:11:40>00:11:46 but I couldn't find a third independent
+00:11:43>00:11:55 vector in the plane every basis for the
+00:11:46>00:12:05 plane so here every basis for the this
+00:11:55>00:12:10 plane contains two vectors always two
+00:12:05>00:12:13 and that number two is the dimension of
+00:12:10>00:12:16 a plane well I'm just saying the plane
+00:12:13>00:12:20 there is two-dimensional it's not the
+00:12:16>00:12:24 same as r2 it's not the same that plane
+00:12:20>00:12:27 is a plane in r3 it's not ordinary
+00:12:24>00:12:30 two-dimensional space but it has it's
+00:12:27>00:12:32 dimension is two because it takes any
+00:12:30>00:12:33 vector and if I didn't like the looks of
+00:12:32>00:12:36 this one
+00:12:33>00:12:40 well that's no problem I mean let me go
+00:12:36>00:12:43 that way that's just as good those two
+00:12:40>00:12:46 vectors are independent they span the
+00:12:43>00:12:49 plane they're a basis for the plane the
+00:12:46>00:12:54 plane is two-dimensional that's the set
+00:12:49>00:12:58 of key ideas independent span basis
+00:12:54>00:13:01 basis is fundamental basis is a bunch of
+00:12:58>00:13:02 vectors and dimension is how many
+00:13:01>00:13:05 vectors
+00:13:02>00:13:10 okay those are key ideas in linear
+00:13:05>00:13:14 algebra and you'll see them come into
+00:13:10>00:13:16 the big picture of linear algebra thank
+00:13:14>00:13:16 you
+""","The transcript is from a teaching session focusing on the foundational concepts of vector spaces in linear algebra. The speaker begins by discussing the importance of understanding the basis of a vector space and its dimension, emphasizing independence and spanning as key factors.
+
+Three key concepts are illustrated:
+
+1. Independence of vectors: Vectors are independent if none of them can be expressed as a linear combination of the others. If vectors are on the same line, they are dependent; in contrast, vectors that point in different directions are independent.
+
+2. Basis of a vector space: A basis is a set of linearly independent vectors that span the entire space. For example, in a three-dimensional space, any two independent vectors can span a plane within that space, but a third vector is needed to span the entire three-dimensional space.
+
+3. Dimension of a vector space: Dimension refers to the number of vectors in a basis for the space. It indicates the size of the space concerning the number of independent directions available. For instance, a plane has a dimension of two since it can be spanned by two independent vectors. A three-dimensional space requires three independent vectors to form a basis.
+
+Additionally, the speaker introduces the concept of a matrix's null space and column space, explaining that a matrix with independent columns has a null space containing only the zero vector. The column space of such a matrix is the entire three-dimensional space it spans. In conclusion, these concepts of independence, basis, and dimension are crucial in understanding the structure of vector spaces in linear algebra.","The video introduces the concept of a vector space and explains its dimension and basis. A vector space can be three-dimensional space, and its dimension is 3. A basis for a vector space is a set of independent vectors that span the space. The video illustrates this concept by using a plane in three-dimensional space as an example. A basis for the plane consists of two independent vectors, and the dimension of the plane is 2. The video also discusses the importance of independence, span, and basis in linear algebra. Overall, the key concepts presented in the video include: vector space, dimension, basis, independence, span, and dimension.","The speaker is discussing the concept of a basis in linear algebra, specifically in the context of a three-dimensional space. They explain that a basis is a set of independent vectors that span the space, and that the number of basis vectors is equal to the dimension of the space. They also discuss the idea of a subspace, which is a smaller space that is a subset of a larger space, and explain that the dimension of a subspace is equal to the number of basis vectors needed to span it. The speaker uses examples to illustrate their points, including a plane in three-dimensional space, and emphasizes the importance of understanding the concepts of independence, span, and dimension in order to understand linear algebra.","Sure, here is a summary of the video transcript:
+
+Key Concepts:
+
+Vector Space: A set of vectors that can be added together and scaled by scalars.
+Dimension: The number of vectors in a basis for a vector space.
+Basis: A set of linearly independent vectors that span a vector space.
+Independent Vectors: Vectors that cannot be expressed as a linear combination of each other.
+Span: The set of all linear combinations of a set of vectors.
+Subspace: A subset of a vector space that is also a vector space.
+Main Points:
+
+A basis for a vector space is a set of independent vectors that span the vector space.
+The dimension of a vector space is the number of vectors in a basis for the vector space.
+Different bases for the same vector space will have the same number of vectors.
+The zero vector is always dependent.
+A basis for a subspace is a set of vectors that span the subspace and are independent.
+The dimension of a subspace is less than or equal to the dimension of the vector space it is a subspace of.
+I hope this summary is helpful!"
+2,"MIT Open Course on Basis and Dimension
+",https://www.youtube.com/watch?v=MMWqGD4Urso,"""hi there welcome back to recitation in
+lecture you've been learning about when
+vectors are
+dependent when they span a space what a
+basis is what a dimension of a vector
+space is and the problem for today is
+exactly about that we have a vector
+space that is given it's spanned by
+these four vectors and we're asked to
+find the dimension of that vector space
+and the basis for it well why don't you
+hit pause on the video and work on it
+for a while and I'll come back in a
+little bit to help you out with it all
+right we're back let's work on it well
+so we need to find the dimension and the
+basis remember what the dimension is
+it's simply the number of vectors in a
+basis for the vector space so actually
+the problems is backwards we want to
+find the basis for the space first and
+then find the dimension all right all
+right first here and second here all
+right so we want to find a basis for the
+vector space spanned by these four
+vectors all right so you might be
+tempted to just say that a basis for
+this vector space is those four vectors
+because they span the vector space but
+there's another thing that a basis has
+to satisfy and it is the elements of the
+basis have to be linearly independent
+and we don't know that these are so we
+have to check how do we check that four
+vectors are linearly independent well
+there's a couple of different ways but
+here's what we're going to do we're
+going to put these vectors as rows of a
+matrix and then we'll do elimination and
+when we get to the end the rows that
+have pivots are the independent ones so
+let's do that
+1 1 plus 2 0 minus 1 1 2 0 minus 4 1 0 1
+3 2
+- 3 0 - 2
+all right by now you must have done
+elimination a million times so I'll go a
+little bit faster - its 1 0 1 0 + 2 - 4
+- it's already done 1 3 minutes 3 - 2
+minutes - 3 - 2 0 + 4 - 2 & 2 alright
+one more step 1 1 - 2 0 - 1 I'll do done
+0 1 2 1 2 0 1 minus 1 is 0 3 minus 2 is
+1 - 3 + 4 is 1 2 minus 2 is 0 1 minus 1
+is 0 - 2 again and 0 oh you can see
+where this is going
+and the next step this row is going to
+disappear - 2 0 1 0 1 - 2 0 0 1 1 0 0 0
+0 0 alright we're done with elimination
+and so let's circle our pivots and here
+our pivots we have three pivots and so
+these 3 rows are linearly independent no
+and in fact these rows still span the
+same space that the initial four rows
+did because when you do elimination all
+that you're doing is recombining a rose
+well by doing linear combinations of
+them so for example your first first row
+state
+same throughout your second row was
+replaced by Row 2 minus Row 1 but it's
+really still spanning the same space and
+it goes on and then the fourth row it
+turns out was useless you only needed
+the first three so the elements for a
+basis well they will be these three so
+let me write that zero one one zero
+could you have used the first three rows
+yes you could you can't always do that
+sometimes in elimination you have to
+switch rows because there's a zero where
+a pivot should be when that happens you
+have to use these three or you have to
+keep track of which row you switched to
+go back and use the initial ones but
+it's really safe to use these ones and
+also they're simpler than the ones that
+you started with so why not the other
+question that we had was what is the
+dimension of the vector space well this
+is the easy part
+the dimension of the vector space is 1 2
+3 and that solves the problem but
+there's one more thing that I want to
+tell you I told you that there's a
+couple of ways to find out which of
+those four vectors are linearly
+independent and the one that I used was
+I put them in two rows and perform the
+elimination and picked out the rows that
+have pivots on them another way to do it
+is to write the initial vectors as
+columns of the matrix and then perform
+elimination that also works and as you
+know because you're only working with
+the transpose of this matrix you'll get
+the same number of pivots let's go over
+here where I have the same while the
+transpose of that matrix I have the same
+vectors but now written as columns my
+four initial vector is written as
+columns and here I have performed
+elimination
+and this is the final result let me
+circle the pivots again here they are
+three which is going to give me three
+independent three linearly independent
+vectors and hence three elements of the
+basis and hence dimension three for the
+vector space but I can no longer use
+these three these three columns as
+elements of the basis because when I did
+elimination I changed the column space
+so in the column space of this vectors
+of this matrix is not the same as the
+column space of the eliminated version
+so I cannot use these in fact if you
+look at them you can probably understand
+that they're not going to span the same
+space as these because all that I have
+done here are zeros and I get a lot more
+than just zeros in the last two entries
+of the vectors so what I need to do is
+the pivots are in the first second and
+third columns I need to use these three
+columns as my basis I'll just write
+basis down here and that will work too
+so see I have produced two different
+basis for the same vector space which is
+totally fine
+you can pick the basis that you prefer
+alright we're done thank you""","""00:00:07>00:00:12 hi there welcome back to recitation in
+00:00:10>00:00:13 lecture you've been learning about when
+00:00:12>00:00:17 vectors are
+00:00:13>00:00:19 dependent when they span a space what a
+00:00:17>00:00:21 basis is what a dimension of a vector
+00:00:19>00:00:25 space is and the problem for today is
+00:00:21>00:00:27 exactly about that we have a vector
+00:00:25>00:00:30 space that is given it's spanned by
+00:00:27>00:00:32 these four vectors and we're asked to
+00:00:30>00:00:37 find the dimension of that vector space
+00:00:32>00:00:39 and the basis for it well why don't you
+00:00:37>00:00:41 hit pause on the video and work on it
+00:00:39>00:00:50 for a while and I'll come back in a
+00:00:41>00:00:55 little bit to help you out with it all
+00:00:50>00:00:58 right we're back let's work on it well
+00:00:55>00:01:01 so we need to find the dimension and the
+00:00:58>00:01:04 basis remember what the dimension is
+00:01:01>00:01:06 it's simply the number of vectors in a
+00:01:04>00:01:08 basis for the vector space so actually
+00:01:06>00:01:10 the problems is backwards we want to
+00:01:08>00:01:12 find the basis for the space first and
+00:01:10>00:01:20 then find the dimension all right all
+00:01:12>00:01:21 right first here and second here all
+00:01:20>00:01:23 right so we want to find a basis for the
+00:01:21>00:01:25 vector space spanned by these four
+00:01:23>00:01:27 vectors all right so you might be
+00:01:25>00:01:29 tempted to just say that a basis for
+00:01:27>00:01:32 this vector space is those four vectors
+00:01:29>00:01:33 because they span the vector space but
+00:01:32>00:01:36 there's another thing that a basis has
+00:01:33>00:01:38 to satisfy and it is the elements of the
+00:01:36>00:01:41 basis have to be linearly independent
+00:01:38>00:01:44 and we don't know that these are so we
+00:01:41>00:01:46 have to check how do we check that four
+00:01:44>00:01:48 vectors are linearly independent well
+00:01:46>00:01:51 there's a couple of different ways but
+00:01:48>00:01:53 here's what we're going to do we're
+00:01:51>00:01:57 going to put these vectors as rows of a
+00:01:53>00:01:59 matrix and then we'll do elimination and
+00:01:57>00:02:03 when we get to the end the rows that
+00:01:59>00:02:05 have pivots are the independent ones so
+00:02:03>00:02:16 let's do that
+00:02:05>00:02:21 1 1 plus 2 0 minus 1 1 2 0 minus 4 1 0 1
+00:02:16>00:02:27 3 2
+00:02:21>00:02:27 - 3 0 - 2
+00:02:29>00:02:34 all right by now you must have done
+00:02:32>00:02:46 elimination a million times so I'll go a
+00:02:34>00:02:54 little bit faster - its 1 0 1 0 + 2 - 4
+00:02:46>00:03:05 - it's already done 1 3 minutes 3 - 2
+00:02:54>00:03:14 minutes - 3 - 2 0 + 4 - 2 & 2 alright
+00:03:05>00:03:24 one more step 1 1 - 2 0 - 1 I'll do done
+00:03:14>00:03:32 0 1 2 1 2 0 1 minus 1 is 0 3 minus 2 is
+00:03:24>00:03:38 1 - 3 + 4 is 1 2 minus 2 is 0 1 minus 1
+00:03:32>00:03:39 is 0 - 2 again and 0 oh you can see
+00:03:38>00:03:41 where this is going
+00:03:39>00:03:56 and the next step this row is going to
+00:03:41>00:04:01 disappear - 2 0 1 0 1 - 2 0 0 1 1 0 0 0
+00:03:56>00:04:10 0 0 alright we're done with elimination
+00:04:01>00:04:15 and so let's circle our pivots and here
+00:04:10>00:04:19 our pivots we have three pivots and so
+00:04:15>00:04:23 these 3 rows are linearly independent no
+00:04:19>00:04:25 and in fact these rows still span the
+00:04:23>00:04:27 same space that the initial four rows
+00:04:25>00:04:30 did because when you do elimination all
+00:04:27>00:04:32 that you're doing is recombining a rose
+00:04:30>00:04:35 well by doing linear combinations of
+00:04:32>00:04:35 them so for example your first first row
+00:04:35>00:04:38 state
+00:04:35>00:04:42 same throughout your second row was
+00:04:38>00:04:45 replaced by Row 2 minus Row 1 but it's
+00:04:42>00:04:47 really still spanning the same space and
+00:04:45>00:04:49 it goes on and then the fourth row it
+00:04:47>00:04:52 turns out was useless you only needed
+00:04:49>00:04:57 the first three so the elements for a
+00:04:52>00:05:18 basis well they will be these three so
+00:04:57>00:05:18 let me write that zero one one zero
+00:05:18>00:05:25 could you have used the first three rows
+00:05:22>00:05:28 yes you could you can't always do that
+00:05:25>00:05:30 sometimes in elimination you have to
+00:05:28>00:05:32 switch rows because there's a zero where
+00:05:30>00:05:34 a pivot should be when that happens you
+00:05:32>00:05:36 have to use these three or you have to
+00:05:34>00:05:39 keep track of which row you switched to
+00:05:36>00:05:41 go back and use the initial ones but
+00:05:39>00:05:43 it's really safe to use these ones and
+00:05:41>00:05:46 also they're simpler than the ones that
+00:05:43>00:05:48 you started with so why not the other
+00:05:46>00:05:52 question that we had was what is the
+00:05:48>00:05:53 dimension of the vector space well this
+00:05:52>00:05:55 is the easy part
+00:05:53>00:06:00 the dimension of the vector space is 1 2
+00:05:55>00:06:01 3 and that solves the problem but
+00:06:00>00:06:04 there's one more thing that I want to
+00:06:01>00:06:07 tell you I told you that there's a
+00:06:04>00:06:09 couple of ways to find out which of
+00:06:07>00:06:12 those four vectors are linearly
+00:06:09>00:06:14 independent and the one that I used was
+00:06:12>00:06:17 I put them in two rows and perform the
+00:06:14>00:06:20 elimination and picked out the rows that
+00:06:17>00:06:23 have pivots on them another way to do it
+00:06:20>00:06:26 is to write the initial vectors as
+00:06:23>00:06:28 columns of the matrix and then perform
+00:06:26>00:06:30 elimination that also works and as you
+00:06:28>00:06:32 know because you're only working with
+00:06:30>00:06:36 the transpose of this matrix you'll get
+00:06:32>00:06:40 the same number of pivots let's go over
+00:06:36>00:06:42 here where I have the same while the
+00:06:40>00:06:44 transpose of that matrix I have the same
+00:06:42>00:06:46 vectors but now written as columns my
+00:06:44>00:06:48 four initial vector is written as
+00:06:46>00:06:49 columns and here I have performed
+00:06:48>00:06:52 elimination
+00:06:49>00:06:56 and this is the final result let me
+00:06:52>00:06:59 circle the pivots again here they are
+00:06:56>00:07:01 three which is going to give me three
+00:06:59>00:07:03 independent three linearly independent
+00:07:01>00:07:05 vectors and hence three elements of the
+00:07:03>00:07:08 basis and hence dimension three for the
+00:07:05>00:07:11 vector space but I can no longer use
+00:07:08>00:07:14 these three these three columns as
+00:07:11>00:07:17 elements of the basis because when I did
+00:07:14>00:07:19 elimination I changed the column space
+00:07:17>00:07:21 so in the column space of this vectors
+00:07:19>00:07:24 of this matrix is not the same as the
+00:07:21>00:07:28 column space of the eliminated version
+00:07:24>00:07:31 so I cannot use these in fact if you
+00:07:28>00:07:33 look at them you can probably understand
+00:07:31>00:07:36 that they're not going to span the same
+00:07:33>00:07:38 space as these because all that I have
+00:07:36>00:07:40 done here are zeros and I get a lot more
+00:07:38>00:07:44 than just zeros in the last two entries
+00:07:40>00:07:46 of the vectors so what I need to do is
+00:07:44>00:07:52 the pivots are in the first second and
+00:07:46>00:07:54 third columns I need to use these three
+00:07:52>00:07:58 columns as my basis I'll just write
+00:07:54>00:08:01 basis down here and that will work too
+00:07:58>00:08:03 so see I have produced two different
+00:08:01>00:08:04 basis for the same vector space which is
+00:08:03>00:08:06 totally fine
+00:08:04>00:08:10 you can pick the basis that you prefer
+00:08:06>00:08:10 alright we're done thank you
+""","The video is a lesson on linear algebra concepts such as vector spaces, bases, dimensions, and linear independence. The primary challenge is to find the basis and dimension of a given vector space spanned by four vectors.
+
+The instructor starts by explaining the importance of determining a basis first because the dimension of a vector space is the number of vectors in the basis. The four provided vectors may not necessarily form a basis because it's not clear if they are linearly independent, an essential property of a basis.
+
+To check for linear independence, the instructor suggests placing the vectors as rows in a matrix and using row elimination to simplify it. Through elimination, the instructor demonstrates that only three of the vectors are linearly independent, as seen by the presence of three pivots in the resulting matrix. Consequently, the dimension of the vector space is three, and those three linearly independent vectors form a basis for the space.
+
+Furthermore, the instructor mentions an alternative way to check for linear independence by placing the vectors as columns in a matrix, and using column elimination to find the number of pivots. However, the instructor emphasizes that after performing column elimination, one cannot use the altered columns as a basis because they change the column space.
+
+In summary, the transcript conveys two key takeaways:
+1. The dimension of a vector space is the number of linearly independent vectors in a basis for that space.
+2. To find a basis, you must ensure the vectors are linearly independent; it's not sufficient for them to merely span the space. Linear independence can be assessed by row or column elimination, but basis vectors from column elimination must come from the original, non-eliminated set.","The video discusses how to find the dimension and basis of a vector space given four vectors. The first step is to determine if the vectors are linearly independent by using elimination and checking for pivots. In this case, three of the vectors are linearly independent. The three independent vectors form the basis for the vector space. The dimension of the vector space is then determined to be 3. The video also mentions that another method to find the basis is to use the transpose of the matrix with the vectors as columns. In this case, the three columns with pivots are used as the basis. It is highlighted that multiple bases can be chosen for the same vector space, allowing for personal preference.","he lecture is discussing the concept of finding a basis and dimension of a vector space. The speaker is working through a problem where they have four vectors that span a vector space and they need to find the dimension and a basis for the space.
+
+The speaker explains that a basis is a set of vectors that span the vector space and are linearly independent. They demonstrate how to find a basis by putting the vectors as rows of a matrix and performing elimination. The rows that have pivots are the linearly independent vectors, and these form a basis for the vector space.
+
+The speaker also mentions that there are multiple ways to find the basis, such as writing the initial vectors as columns of a matrix and performing elimination. The resulting pivots will give the linearly independent vectors that form a basis for the vector space.
+
+The speaker then shows that the dimension of the vector space is equal to the number of pivots, which in this case is three. They also show that the basis can be chosen as the first three rows of the matrix, or the first three columns of the transposed matrix.
+
+The speaker summarizes that the dimension of the vector space is three, and the basis can be chosen as any set of three linearly independent vectors that span the space.","Sure, here is a summary of the given transcript:
+
+Summary:
+
+The video discusses the concept of linear independence and how to find a basis for a vector space. The speaker first explains that a basis for a vector space is a set of linearly independent vectors that span the space. Then, they demonstrate how to find a basis for a vector space using elimination. Finally, they discuss the concept of the dimension of a vector space and how it is related to the number of vectors in a basis.
+
+Key takeaways:
+
+A basis for a vector space is a set of linearly independent vectors that span the space.
+One way to find a basis for a vector space is to put the vectors as rows of a matrix and then do elimination. The rows that have pivots are the independent ones.
+The dimension of a vector space is the number of vectors in a basis for the space.
+I hope this summary is helpful. Please let me know if you have any other questions."
+3,"New York Times video on ‘His Name Was Bélizaire’: Rare Portrait of Enslaved Child Arrives at the Met
+",https://www.youtube.com/watch?v=n60NTrKs-wc,"""For over 100 years,
+this family portrait
+held a secret: a fourth figure
+that had been painted out.
+Now, the Metropolitan
+Museum of Art
+has just acquired
+the painting,
+one of the few 19th-century portraits
+to realistically portray
+an enslaved person.
+Its incredible
+journey to the Met
+tells a story about the
+erasure of Black figures
+throughout American history.
+And it might have
+been lost forever
+if not for Jeremy K. Simien.
+[MUSIC PLAYING]
+“My ancestors, people
+of African descent,
+are a part of this
+United States.
+And we have got to be
+able to see ourself
+in a historical context.
+The paintings that survive
+are incredibly important
+because so few remain.”
+Simien, an art
+collector, first
+stumbled across the painting
+in an auction record.
+The painting was unsigned.
+But Jeremy thought it
+looked similar to the work
+of renowned portraitist
+Jacques Amans.
+Then, he found
+another auction record
+from a few years prior.
+But in that image
+the enslaved child
+had been covered up.
+“The fact that the boy was
+covered up, it haunted me.
+I had to find out
+where he ended up.”
+The story begins
+with a relative
+of the white children in the
+painting: Eugene Grasser.
+“The family story was that
+there was a favorite slave
+they had, and he was
+painted in the picture.
+And then, for whatever
+reason, some time later
+he was painted out.
+No idea why.”
+Eugene’s mother, Audrey,
+inherited the portrait.
+For decades she kept
+it in the garage.
+But in 1972 she
+donated the painting
+to the New Orleans
+Museum of Art.
+Eugene’s mother told the
+museum the family’s story
+about the fourth figure.
+But instead of
+displaying it, the museum
+placed the painting in
+museum storage – for 32 years.
+“I think that the story
+of this picture is really
+a story of
+institutional neglect.”
+Mia L. Bagneris is a
+professor of art history
+and Africana studies
+at Tulane University.
+“This is what the work looked
+like when NOMA acquired it.
+And you can clearly see
+the spectral outline
+of the figure.”
+“When it came in, it was not
+in exhibitable condition.”
+John Bullard started
+at the museum
+the year after NOMA
+acquired the painting.
+“And you could see the shadow.
+But still, it’s not attributed
+to a particular artist.
+And the children
+were not identified.”
+“The justification that the
+museum has given is that we
+didn’t know who
+the artist was.
+We didn’t know who
+the sitters were.
+Those things are often
+unknown for images
+that feature people
+of African descent
+and may never be known.
+And yet, the objects
+themselves are still worthy
+of critical scholarship.”
+“There are very few museums
+that can exhibit everything
+they own.
+One solution is to go through
+and decide what might be
+appropriately
+de-accessioned and sold.”
+In 2004, NOMA
+sent the painting
+to be sold at auction.
+An antiques dealer bought
+the painting for $6,000
+and had the painting restored.
+The missing figure
+was revealed.
+“I think, in hindsight,
+it was a mistake. Yes,
+but mistakes happen.”
+After years of
+searching, Jeremy finally
+acquired the painting in
+2021 and brought it back
+to Louisiana.
+“I didn’t realize how
+important it was that I own
+pieces pertaining to my
+history until I realized how
+bad of a job some of
+these museums were doing.”
+The first thing
+he did was hire
+Craig Crawford, a
+painting conservator,
+to do a second restoration.
+[doorbell]
+“Hello.”
+“Hey.”
+“We want to get
+that retouching off.
+I would describe my
+mission is to get
+the painting as
+close as one can
+to the original intention.
+I’m just taking off layers
+that were added in the past.”
+“I really wanted to find
+out about the boy of color
+in particular.
+So, I started talking
+to Katy Shannon.”
+“I wanted to show
+you this list.”
+“She has a skill of
+finding enslaved people.”
+“I specialize in the people
+that are seemingly lost
+to history.
+But I’ve never tried to go
+from a painting backward.”
+Katy looked back through
+the Grasser family line
+to try and find
+someone wealthy enough
+to commission the portrait.
+Finally, she found someone:
+Coralie D’Aunoy Frey.
+Census records from
+the 1830s revealed
+who was living in
+the Frey family home.
+There was only one
+possible candidate
+for who the boy could be.
+“And I thought, Oh my God.
+He’s of mixed race.
+He is the exact age.
+And he was a domestic.
+And I said, I found him.
+His name was Bélizaire.”
+“Bélizaire.”
+Now that they had a name,
+Katy could dig deeper,
+using Louisiana property
+records, which at the time
+included the enslaved.
+“There are 45 million
+records here that date back
+to the 1730s.
+OK, so here it is.”
+Sure enough, Katy finds
+what she’s looking
+for: Bélizaire’s bill of
+sale at the age of 6,
+which brought him into the
+Frey household
+in the French Quarter.
+“Bélizaire was sold with
+his mother, Sally, in 1828.
+Frederick Frey was a merchant.
+And what I found was that
+Bélizaire accompanied
+Frey on several voyages.
+So, clearly, he was a domestic
+that was close to the head
+of the house and perhaps the
+caretaker of the children.”
+Bélizaire was
+about 15 years old
+when he was painted
+in the portrait.
+It’s a picture of domestic
+tranquillity at odds with
+the truth.
+“Here he is seemingly valued
+as if he were a family
+member – and yet could be
+sold away at any time.”
+After Frederick Frey died,
+Coralie sold Bélizaire
+to Evergreen Plantation.
+It was Christmas Eve, 1856.
+And sometime
+after he was sold,
+someone had him painted out.
+“It was covered up with
+lighter colors to match
+the skyline.”
+Craig found remnants
+of that skyline
+in the craquelure pattern.
+They became clues to
+solve the mystery of when
+Bélizaire was covered up.
+Over time, paintings
+expand and contract,
+creating cracks.
+“It would have taken 50 years
+or so to have this level
+of cracking.
+The cover-up is visible within
+the craquelure patterns.
+That would give me the
+impression that the cover-up
+happened around the
+turn of the century.”
+“Turn-of-the-century
+New Orleans –
+you’re talking about a world
+that had created Jim Crow
+laws to separate the races
+to make it very clear that
+the two did not
+belong together.
+Whether it was Coralie or
+one of her descendants,
+I don’t know.”
+Documents show
+Bélizaire was enslaved
+at Evergreen up until 1861,
+the year the Civil War began.
+“Did he survive and live long
+enough to experience freedom?
+We don’t know because
+the trail stops.”
+“But we know his name.
+And we know about his journey.
+I think that’s incredible.
+My plan’s to find a
+permanent home for it.
+The painting has to end up
+somewhere where it can be
+seen.”
+In the spring of 2023, a
+dealer who represented Jeremy
+called a curator at the
+Metropolitan Museum of Art
+to tell her about
+the painting.
+“I was completely drawn
+and taken in by the story.
+In the past, we weren’t asking
+all the right questions.
+We weren’t looking for
+depictions of enslaved people
+in a more naturalistic
+way, as an actual portrait
+of a person, because we
+didn’t think they existed.
+I’d never seen one.
+They’re incredibly rare.”
+The dealer included a report
+with all the work Jeremy had
+initiated, the
+name of the artist,
+Katy’s research on
+Bélizaire’s life
+and Craig’s
+conservation report.
+“That made it possible
+for us to move forward.”
+And so, the museum
+acquired the painting
+for its permanent collection
+for an undisclosed sum.
+“I’m afraid to say that far
+too many pieces have been
+de-accessioned or not
+taken in by these museums.
+And we’ve lost a lot as
+a result of this sort
+of negligence.
+I can’t say how many works
+there are like the painting
+of Bélizaire.
+But I think that everybody
+should start looking
+in storage.”""","""00:00:01>00:00:03 For over 100 years,
+this family portrait
+00:00:03>00:00:09 held a secret: a fourth figure
+that had been painted out.
+00:00:09>00:00:11 Now, the Metropolitan
+Museum of Art
+00:00:11>00:00:13 has just acquired
+the painting,
+00:00:13>00:00:15 one of the few 19th-century portraits
+00:00:15>00:00:19 to realistically portray
+an enslaved person.
+00:00:19>00:00:20 Its incredible
+journey to the Met
+00:00:20>00:00:23 tells a story about the
+erasure of Black figures
+00:00:23>00:00:25 throughout American history.
+00:00:25>00:00:27 And it might have
+been lost forever
+00:00:27>00:00:29 if not for Jeremy K. Simien.
+00:00:29>00:00:32 [MUSIC PLAYING]
+00:00:35>00:00:37 “My ancestors, people
+of African descent,
+00:00:37>00:00:39 are a part of this
+United States.
+00:00:39>00:00:42 And we have got to be
+able to see ourself
+00:00:42>00:00:43 in a historical context.
+00:00:43>00:00:47 The paintings that survive
+are incredibly important
+00:00:47>00:00:50 because so few remain.”
+00:00:50>00:00:52 Simien, an art
+collector, first
+00:00:52>00:00:54 stumbled across the painting
+in an auction record.
+00:00:54>00:00:56 The painting was unsigned.
+00:00:56>00:00:58 But Jeremy thought it
+looked similar to the work
+00:00:58>00:01:01 of renowned portraitist
+Jacques Amans.
+00:01:01>00:01:03 Then, he found
+another auction record
+00:01:03>00:01:05 from a few years prior.
+00:01:05>00:01:07 But in that image
+the enslaved child
+00:01:07>00:01:08 had been covered up.
+00:01:08>00:01:12 “The fact that the boy was
+covered up, it haunted me.
+00:01:12>00:01:15 I had to find out
+where he ended up.”
+00:01:15>00:01:17 The story begins
+with a relative
+00:01:17>00:01:21 of the white children in the
+painting: Eugene Grasser.
+00:01:21>00:01:24 “The family story was that
+there was a favorite slave
+00:01:24>00:01:26 they had, and he was
+painted in the picture.
+00:01:26>00:01:29 And then, for whatever
+reason, some time later
+00:01:29>00:01:31 he was painted out.
+00:01:31>00:01:33 No idea why.”
+00:01:33>00:01:35 Eugene’s mother, Audrey,
+inherited the portrait.
+00:01:35>00:01:38 For decades she kept
+it in the garage.
+00:01:38>00:01:41 But in 1972 she
+donated the painting
+00:01:41>00:01:44 to the New Orleans
+Museum of Art.
+00:01:44>00:01:47 Eugene’s mother told the
+museum the family’s story
+00:01:47>00:01:50 about the fourth figure.
+00:01:50>00:01:53 But instead of
+displaying it, the museum
+00:01:53>00:01:56 placed the painting in
+museum storage – for 32 years.
+00:02:01>00:02:04 “I think that the story
+of this picture is really
+00:02:04>00:02:07 a story of
+institutional neglect.”
+00:02:07>00:02:10 Mia L. Bagneris is a
+professor of art history
+00:02:10>00:02:14 and Africana studies
+at Tulane University.
+00:02:14>00:02:16 “This is what the work looked
+like when NOMA acquired it.
+00:02:16>00:02:20 And you can clearly see
+the spectral outline
+00:02:20>00:02:24 of the figure.”
+00:02:24>00:02:28 “When it came in, it was not
+in exhibitable condition.”
+00:02:28>00:02:29 John Bullard started
+at the museum
+00:02:29>00:02:32 the year after NOMA
+acquired the painting.
+00:02:32>00:02:34 “And you could see the shadow.
+00:02:34>00:02:37 But still, it’s not attributed
+to a particular artist.
+00:02:37>00:02:41 And the children
+were not identified.”
+00:02:41>00:02:44 “The justification that the
+museum has given is that we
+00:02:44>00:02:45 didn’t know who
+the artist was.
+00:02:45>00:02:47 We didn’t know who
+the sitters were.
+00:02:47>00:02:51 Those things are often
+unknown for images
+00:02:51>00:02:53 that feature people
+of African descent
+00:02:53>00:02:55 and may never be known.
+00:02:55>00:02:59 And yet, the objects
+themselves are still worthy
+00:02:59>00:03:02 of critical scholarship.”
+00:03:02>00:03:05 “There are very few museums
+that can exhibit everything
+00:03:05>00:03:06 they own.
+00:03:06>00:03:11 One solution is to go through
+and decide what might be
+00:03:11>00:03:15 appropriately
+de-accessioned and sold.”
+00:03:15>00:03:18 In 2004, NOMA
+sent the painting
+00:03:18>00:03:19 to be sold at auction.
+00:03:20>00:03:23 An antiques dealer bought
+the painting for $6,000
+00:03:23>00:03:24 and had the painting restored.
+00:03:24>00:03:29 The missing figure
+was revealed.
+00:03:29>00:03:32 “I think, in hindsight,
+it was a mistake. Yes,
+00:03:32>00:03:36 but mistakes happen.”
+00:03:36>00:03:39 After years of
+searching, Jeremy finally
+00:03:39>00:03:41 acquired the painting in
+2021 and brought it back
+00:03:41>00:03:42 to Louisiana.
+00:03:42>00:03:45 “I didn’t realize how
+important it was that I own
+00:03:45>00:03:50 pieces pertaining to my
+history until I realized how
+00:03:50>00:03:53 bad of a job some of
+these museums were doing.”
+00:03:53>00:03:55 The first thing
+he did was hire
+00:03:55>00:03:57 Craig Crawford, a
+painting conservator,
+00:03:57>00:03:59 to do a second restoration.
+00:03:59>00:03:59 [doorbell]
+00:03:59>00:04:00 “Hello.”
+00:04:00>00:04:02 “Hey.”
+00:04:02>00:04:04 “We want to get
+that retouching off.
+00:04:04>00:04:08 I would describe my
+mission is to get
+00:04:08>00:04:10 the painting as
+close as one can
+00:04:10>00:04:12 to the original intention.
+00:04:15>00:04:21 I’m just taking off layers
+that were added in the past.”
+00:04:21>00:04:24 “I really wanted to find
+out about the boy of color
+00:04:24>00:04:25 in particular.
+00:04:25>00:04:29 So, I started talking
+to Katy Shannon.”
+00:04:29>00:04:31 “I wanted to show
+you this list.”
+00:04:31>00:04:35 “She has a skill of
+finding enslaved people.”
+00:04:35>00:04:39 “I specialize in the people
+that are seemingly lost
+00:04:39>00:04:40 to history.
+00:04:40>00:04:45 But I’ve never tried to go
+from a painting backward.”
+00:04:45>00:04:48 Katy looked back through
+the Grasser family line
+00:04:48>00:04:50 to try and find
+someone wealthy enough
+00:04:50>00:04:54 to commission the portrait.
+00:04:54>00:04:58 Finally, she found someone:
+Coralie D’Aunoy Frey.
+00:04:58>00:05:01 Census records from
+the 1830s revealed
+00:05:01>00:05:03 who was living in
+the Frey family home.
+00:05:03>00:05:05 There was only one
+possible candidate
+00:05:05>00:05:07 for who the boy could be.
+00:05:07>00:05:08 “And I thought, Oh my God.
+00:05:08>00:05:10 He’s of mixed race.
+00:05:10>00:05:12 He is the exact age.
+00:05:12>00:05:14 And he was a domestic.
+00:05:14>00:05:17 And I said, I found him.
+00:05:17>00:05:20 His name was Bélizaire.”
+00:05:20>00:05:28 “Bélizaire.”
+00:05:28>00:05:31 Now that they had a name,
+Katy could dig deeper,
+00:05:31>00:05:35 using Louisiana property
+records, which at the time
+00:05:35>00:05:37 included the enslaved.
+00:05:37>00:05:40 “There are 45 million
+records here that date back
+00:05:40>00:05:43 to the 1730s.
+00:05:43>00:05:45 OK, so here it is.”
+00:05:45>00:05:47 Sure enough, Katy finds
+what she’s looking
+00:05:47>00:05:51 for: Bélizaire’s bill of
+sale at the age of 6,
+00:05:51>00:05:53 which brought him into the
+Frey household
+00:05:53>00:05:54 in the French Quarter.
+00:05:55>00:06:01 “Bélizaire was sold with
+his mother, Sally, in 1828.
+00:06:01>00:06:03 Frederick Frey was a merchant.
+00:06:03>00:06:07 And what I found was that
+Bélizaire accompanied
+00:06:07>00:06:10 Frey on several voyages.
+00:06:10>00:06:14 So, clearly, he was a domestic
+that was close to the head
+00:06:14>00:06:19 of the house and perhaps the
+caretaker of the children.”
+00:06:19>00:06:21 Bélizaire was
+about 15 years old
+00:06:21>00:06:23 when he was painted
+in the portrait.
+00:06:23>00:06:26 It’s a picture of domestic
+tranquillity at odds with
+00:06:26>00:06:27 the truth.
+00:06:27>00:06:31 “Here he is seemingly valued
+as if he were a family
+00:06:31>00:06:35 member – and yet could be
+sold away at any time.”
+00:06:35>00:06:38 After Frederick Frey died,
+Coralie sold Bélizaire
+00:06:38>00:06:40 to Evergreen Plantation.
+00:06:40>00:06:45 It was Christmas Eve, 1856.
+00:06:45>00:06:47 And sometime
+after he was sold,
+00:06:47>00:06:50 someone had him painted out.
+00:06:50>00:06:53 “It was covered up with
+lighter colors to match
+00:06:53>00:06:54 the skyline.”
+00:06:54>00:06:56 Craig found remnants
+of that skyline
+00:06:56>00:06:57 in the craquelure pattern.
+00:06:57>00:07:00 They became clues to
+solve the mystery of when
+00:07:00>00:07:01 Bélizaire was covered up.
+00:07:01>00:07:04 Over time, paintings
+expand and contract,
+00:07:04>00:07:05 creating cracks.
+00:07:05>00:07:09 “It would have taken 50 years
+or so to have this level
+00:07:09>00:07:11 of cracking.
+00:07:11>00:07:14 The cover-up is visible within
+the craquelure patterns.
+00:07:14>00:07:19 That would give me the
+impression that the cover-up
+00:07:19>00:07:23 happened around the
+turn of the century.”
+00:07:23>00:07:25 “Turn-of-the-century
+New Orleans –
+00:07:25>00:07:29 you’re talking about a world
+that had created Jim Crow
+00:07:29>00:07:34 laws to separate the races
+to make it very clear that
+00:07:34>00:07:36 the two did not
+belong together.
+00:07:36>00:07:40 Whether it was Coralie or
+one of her descendants,
+00:07:40>00:07:43 I don’t know.”
+00:07:43>00:07:45 Documents show
+Bélizaire was enslaved
+00:07:45>00:07:49 at Evergreen up until 1861,
+the year the Civil War began.
+00:07:49>00:07:54 “Did he survive and live long
+enough to experience freedom?
+00:07:54>00:07:58 We don’t know because
+the trail stops.”
+00:07:58>00:08:00 “But we know his name.
+00:08:00>00:08:02 And we know about his journey.
+00:08:02>00:08:04 I think that’s incredible.
+00:08:04>00:08:07 My plan’s to find a
+permanent home for it.
+00:08:07>00:08:10 The painting has to end up
+somewhere where it can be
+00:08:10>00:08:12 seen.”
+00:08:13>00:08:16 In the spring of 2023, a
+dealer who represented Jeremy
+00:08:16>00:08:19 called a curator at the
+Metropolitan Museum of Art
+00:08:19>00:08:21 to tell her about
+the painting.
+00:08:21>00:08:25 “I was completely drawn
+and taken in by the story.
+00:08:25>00:08:30 In the past, we weren’t asking
+all the right questions.
+00:08:30>00:08:34 We weren’t looking for
+depictions of enslaved people
+00:08:34>00:08:38 in a more naturalistic
+way, as an actual portrait
+00:08:38>00:08:41 of a person, because we
+didn’t think they existed.
+00:08:41>00:08:43 I’d never seen one.
+00:08:43>00:08:46 They’re incredibly rare.”
+00:08:46>00:08:49 The dealer included a report
+with all the work Jeremy had
+00:08:49>00:08:51 initiated, the
+name of the artist,
+00:08:51>00:08:53 Katy’s research on
+Bélizaire’s life
+00:08:53>00:08:56 and Craig’s
+conservation report.
+00:08:56>00:08:59 “That made it possible
+for us to move forward.”
+00:08:59>00:09:01 And so, the museum
+acquired the painting
+00:09:01>00:09:05 for its permanent collection
+for an undisclosed sum.
+00:09:05>00:09:09 “I’m afraid to say that far
+too many pieces have been
+00:09:09>00:09:14 de-accessioned or not
+taken in by these museums.
+00:09:14>00:09:17 And we’ve lost a lot as
+a result of this sort
+00:09:17>00:09:19 of negligence.
+00:09:19>00:09:23 I can’t say how many works
+there are like the painting
+00:09:23>00:09:24 of Bélizaire.
+00:09:24>00:09:28 But I think that everybody
+should start looking
+00:09:28>00:09:29 in storage.”
+""","The Metropolitan Museum of Art acquired a 19th-century portrait that features a realistically depicted enslaved person, a rarity for its time. An art collector, Jeremy K. Simien, discovered that this painting included a figure of an enslaved boy that had been painted over. Simien was compelled to uncover the boy's identity and restore the painting to its original state. The painting's journey highlights the historical erasure of Black figures in American art.
+
+The painting had been passed down through the Grasser family, who were told the boy was a favored slave later painted out for unknown reasons. After being inherited by Eugene Grasser's mother, the painting was donated to the New Orleans Museum of Art in 1972 but was left in storage due to its poor condition and lack of attributions. Later, it was auctioned off, restored, and revealed the figure of the enslaved boy, identified as Bélizaire. 
+
+Researcher Katy Shannon and art conservator Craig Crawford contributed to the painting's restoration and historical investigation. Shannon traced back through the Grasser family's history to identify Bélizaire and found census and property records that shed light on his life. Bélizaire was sold to the Frey household as a child with his mother and became a domestic servant closely involved with the children and the head of the household.
+
+Bélizaire's image was painted out around the turn of the century, a time marked by the rise of Jim Crow laws. His life after being sold to Evergreen Plantation and whether he lived to see freedom remains unknown. Simien, committed to finding a permanent home for the painting, eventually facilitated its acquisition by the Met, underscoring the importance of revisiting museum storage for neglected works that represent untold stories of Black history.","The transcript discusses the story of a family portrait that was acquired by the Metropolitan Museum of Art. The painting had a hidden fourth figure, an enslaved person, who had been painted out. The journey of the painting highlights the erasure of Black figures throughout American history. The painting was first discovered by an art collector, Jeremy K. Simien, who was intrigued by the covered-up figure. The painting had been donated to the New Orleans Museum of Art but was placed in storage for decades due to institutional neglect. In 2004, the painting was sold at auction and the missing figure was revealed after restoration. Jeremy eventually acquired the painting and hired a conservator to restore it further. Through research, the identity of the enslaved person, named Bélizaire, was discovered, and his history as a domestic servant and caretaker of the children was revealed. The painting serves as a depiction of domestic tranquility, despite the harsh reality of enslavement. The painting was acquired by the Metropolitan Museum of Art for its permanent collection. The story highlights the importance of recognizing and preserving artwork that features Black individuals and the need for scholars to uncover hidden histories.","The Metropolitan Museum of Art has acquired a rare 19th-century portrait of an enslaved person, which was previously unknown and had been painted out of a family portrait. The painting's journey to the Met tells a story about the erasure of Black figures throughout American history. The painting was discovered by Jeremy K. Simien, an art collector, who was researching the history of the portrait. He found that the painting had been donated to the New Orleans Museum of Art in 1972, but it was not displayed and was instead placed in storage. The museum later sold the painting at auction, where it was purchased by an antiques dealer who restored the painting and revealed the missing figure. Simien eventually acquired the painting and hired a conservator to restore it to its original state. Through research, they discovered the name of the enslaved person in the painting, Bélizaire, and his story. The painting is now part of the Met's permanent collection, and its acquisition highlights the importance of preserving and displaying artwork that represents marginalized communities.","
+Sure, here is a summary of the given transcript:
+
+The painting ""Bélizaire and the Frey Children"" is a rare 19th-century portrait that depicts an enslaved person, Bélizaire, alongside the three white Frey children. The painting was covered up for many years, but it was recently restored and has now been acquired by the Metropolitan Museum of Art.
+
+The story of the painting is a story of the erasure of Black figures throughout American history. For over 100 years, Bélizaire was hidden from view, and it was only through the determination of art collector Jeremy K. Simien that he was brought back to light.
+
+Simien's journey to find the painting and uncover its history is a testament to the importance of preserving Black history. The painting is now a valuable part of the Met's collection, and it will help to tell the story of slavery in America."
+4,"Vice News video on Mega Yachts and False Flags: Unmasking the Super-Rich's Offshore Secrets
+",https://www.youtube.com/watch?v=KjpnObVhKpg,"""[ Upbeat music ]
+-In the open ocean you get
+to pick
+what countries' rules
+apply to you.
+And the rich and powerful
+pick the countries
+that conveniently
+let them pay no taxes,
+skip safety regulations
+and screw over their crews.
+We're here to break down
+how the rich live above the law,
+setup systems to do it
+and fuck over the rest of us.
+Welcome, to Offshore.
+[ Upbeat music ]
+Ahoy motherfuckers.
+Why are wealthy people
+throwing up flags
+for random countries
+on their damn boats?
+And how does help them
+get richer,
+avoid rules like say,
+paying your workers?
+Are mega yachts mega fucked?
+Or are companies
+and the rich getting away
+with this offshore scheming?
+Okay.
+Let's get into who's doing this.
+The big three cruise lines
+are headquartered in Miami,
+but they fly flags
+of offshore countries
+to avoid regulations
+and to save money.
+Norwegian Cruises, they flay the
+flag of our old friend Bermuda.
+Carnival Cruises,
+Carnival cruises fly's half
+and half mix of Panama
+and the Bahamas.
+Oh.
+And the Royal Caribbean Cruises
+based out of the beautiful
+Caribbean country of Liberia,
+which is actually in Africa.
+And not the Caribbean.
+Don't tell me what to do,
+I'm cruising baby.
+Who else is doing this?
+Larry Ellison,
+founder of software giant
+Oracle has the Cayman's flag
+out for his super yacht.
+Trump education secretary
+Betsy DeVos's
+164 foot family yacht
+was registered in the Cayman's.
+Despite being docked
+in Huron, Ohio.
+So much for America
+first I guess.
+Amazon founder
+and want-to-be space cowboy Jeff
+Bezos has a mega yacht.
+That recently made news in the
+Netherlands for being so large
+they planned to remove
+a bridge
+so it could get out
+to the ocean.
+So does this
+American billionaire,
+known for exploiting
+American warehouse workers,
+have an American yacht?
+No, of course not.
+It's also registered
+in the Cayman's.
+So we'll talk about
+how the fuck they do this,
+but first why
+the fuck they do this.
+You skip on taxes,
+safety and wages.
+Not taxed in your home country,
+you're just paying a little fee
+in whatever country
+you're setup in.
+What about wages
+and safety for workers?
+America has labor laws,
+but you don't have to worry
+about those out here
+on the high seas.
+Your ship caught up
+in a disaster, an oil spill,
+well that's the business of you
+and the country of whatever flag
+is flapping around
+the back of your boat.
+So when did all this start?
+After the Titanic sunk in 1912,
+a worker safety
+and protection law was passed.
+The American Seaman's
+Act of 1915.
+Big boat businessmen
+who were like,
+we don't want to have to deal
+with all these ridiculous,
+unfair rules like having
+food onboard for sailors,
+letting them sleep,
+having silly little lifeboats.
+So they registered ships
+in offshore countries,
+open boat registries
+were setup in countries
+that allowed your boat
+and the business of that boat
+to follow the much more
+chilled rules
+of those far-flung countries.
+As opposed to your home country.
+Or the country where
+the business makes its money.
+That would make too much sense.
+All legal, shady, but legal.
+The ocean industry,
+mostly cargo ships,
+oil platforms and tankers
+is dominated by boat
+registries in Panama,
+Liberia
+and the Marshall Islands.
+All in all,
+flags of convenience
+are a big part of the sea biz
+and its problems.
+Take the example of
+the Deepwater Horizon oil rig.
+Remember that little incident?
+It was a floating
+semi-submersible drilling unit.
+So, sort of a boat.
+Anyway, it exploded and spilled
+210 million gallons of oil,
+devastating marine life
+and resulting
+in the worst ecological
+disaster in US history.
+Investigation showed a clear
+lack of safety concerns.
+And that was made
+all the more possible
+when you're flying the flag
+of a country with insufficient,
+unenforced regulations,
+like the Marshall Islands.
+Of all the industries to fly
+the least regulated flags
+is the oil industry.
+The dirtiest, oiliest, grossest
+most ecological disaster
+waiting to happen.
+Can we regulate one industry
+that's destroying our world?
+They can't be trusted.
+So what about this cruise ship?
+Let me tell you about
+the Nordic Empress.
+In 1993, the Coast Guard
+caught the ship
+owned by Royal Caribbean,
+dumping oil in the ocean
+by the Bahamas.
+They eventually discover
+a conspiracy to save money
+on all of their boats
+by dumping waste into the ocean.
+Royal Caribbean denied
+all this and said,
+you can't come after us anyways,
+because we fly
+the flag of Liberia.
+What the fuck is up
+with the Empress?
+She's Caribbean, she's Nordic,
+she's really Liberian.
+Who the fuck knows?
+Consider me unimpressed.
+Guess who else uses flags
+of convenience,
+the kings of the offshore.
+You know them, you hate them,
+the Russian oligarchs.
+These fuckers.
+And as you might have seen,
+some of their tacky-ass
+mega-yachts
+are getting chased down
+at ports around the world.
+So, what's going on here?
+Remember, Russian oligarchs
+are essentially
+incredibly wealthy businessmen
+with extreme
+political influence.
+They gain monumental wealth
+for the privatization
+of state-run industries
+after the collapse
+of the Soviet Union.
+Now, they're also the guys
+who got positions of power
+because they're pals of Putin.
+And they love
+their giant yachts,
+they're essentially
+just private cruise ships.
+Roman Abramovich
+owns the Eclipse.
+The Eclipse is the worlds
+second longest private yacht.
+Has two helipads
+and one mini submarine.
+It's worth about
+half a billion dollars.
+Registered in Bermuda.
+Or there's Dmitry Kamenshchik
+super yacht the Flying Fox.
+Worth about $400 million.
+Jay-Z and Beyoncé
+have been to known party on.
+This Russian oligarch
+might have 99 problems,
+but picking a flag isn't one.
+He went with the Cayman Islands
+for his yacht
+that houses
+an actual Turkish bath
+and a specially designed
+submarine garage.
+If you have Turkish bath
+on your yacht,
+that's a cruise ship my man.
+Why do these guys all want
+a private cruise ship,
+cruise ships suck,
+stay on land, I don't know.
+What do they want
+the buffets and shit?
+I wouldn't mind
+owning a yacht honestly.
+But now these yachts
+are getting hunted down.
+After the 2022
+Russian invasion of Ukraine,
+countries sanctioned Putin
+and the oligarchs.
+Remember, these guys
+are basically
+running the country of Putin.
+The target oligarchs hid
+their wealth in the offshore.
+So western countries
+couldn't get at it.
+Russian oligarchs yachts turn
+their navigation transponders
+off
+and sailed to ports
+where they less likely
+to be searched and seized.
+But you can't just throw a car
+cover over one of these babies.
+Dilbar is a giant yacht, it was
+docked for work in Germany.
+Its owner was unclear
+and complicated.
+But EU officials
+cracked the case.
+It's a Russian nesting
+doll game with these guys.
+It was owned by a company
+in the Cayman Islands
+where it's registered.
+But, that company's owned
+by another company in Greece,
+which is then owned by
+another company in Switzerland.
+And then it keeps going.
+That's how shell company's work,
+they just keep going.
+Til you get a little guy, oop,
+nope still not it,
+still looking for
+that final shell company.
+Until we get, oh no,
+it's even smaller,
+little baby Russian oligarch.
+The center is Russian oligarch,
+Alisher Usmanov.
+He's our little Russian doll.
+Little baby oligarch.
+Claims it's not his yacht,
+so you can't take it,
+when in reality it's owned
+through several shell companies.
+He's setup
+for finally transferring
+ownership to his sister.
+He just gives something
+to your sister
+and pretend it's not yours,
+this isn't 7th Heaven.
+Where you get caught
+with cigarettes
+and blame it on your sister.
+Despite all this
+offshore concealment,
+in March 2022 Germany
+seized the boat.
+When countries have incentive
+it seems
+that then all of a sudden
+they can cut through
+the offer of bullshit.
+If you can figure out
+one of the worlds largest yachts
+is owned by an Russian oligarch
+and its in your country's port,
+then you can sell it and maybe
+keep some of that money.
+In Antigua and Barbuda,
+they just seized a yacht,
+the Alfa Nero.
+Flagged in the Cayman Islands.
+It seemed to be owned by
+Russian oligarch Andrey Guryev.
+Who denied owning it through
+some shady offshore structure.
+It has a lot of necessary
+amenities like a swimming pool
+that converts into a helipad.
+Antigua and Barbuda
+gave the owner ten days
+to step forward
+or they'd auction it off.
+And no one showed up.
+Well that yacht,
+that's not my yacht.
+Former Google CEO Eric Schmidt
+bought the boat
+for $67.6 million.
+What a steal, practically free.
+And if you think maybe
+this money's going to Ukraine
+or something,
+well, that's very sweet of you,
+but also wrong. How about this.
+Sanctioned oligarch
+Dmitry Pumpyansky's yacht,
+the Axioma,
+was seized off of Gibraltar.
+The yacht ultimately
+fetched $37.5 million in auction
+and US investment bank JPMorgan
+got the money from the sale.
+The bank got $23 million back
+that they previously loaned
+to a billionaire Russian
+oligarch for some reason.
+[ Upbeat music ]
+Flags of convenience
+as a scam is serious.
+It's not just money,
+it's the environment
+and it's peoples lives too.
+Like how about this.
+Cargo boat owners routinely
+abandoned crews on ships
+at far-flung ports when
+they deem repairs too costly.
+Qatar-based company
+called Aswan Trading
+and Contracting recently
+abandoned three different ships.
+Some people were left at sea
+for over two years
+with no electricity,
+no running water
+and no sanitary facilities.
+The company confuses authorities
+that their owners are structure,
+remember those
+Russian nesting dolls?
+And of course their ships
+flew flags of convenience.
+These people are miles,
+thousands of miles
+away from home,
+getting paid
+the cheapest amount,
+with no safety,
+no meals, no sleep
+and then at the end
+they're just abandoned.
+Just fly them home,
+just finish the job,
+it's so ridiculous,
+how much money do you need?
+Listen, I get it,
+you're trying to do business.
+Just take a little bit
+of responsibility,
+just a small, just stop
+pretending your boat
+is in Panama, Liberia,
+and Marshall Islands,
+wherever, stop playing
+make pretend.
+Just take this little bit
+of responsibility.
+Pay your people.
+Let them eat, let them sleep!
+It's just this much, how much
+money are you even saving?
+Please, just a little bit.
+Here's this last little tidbit.
+Forty percent
+of the oceans ships
+are flagged in former
+US colonies.
+Setup by US businessmen
+and still sold
+as the state of Virginia.
+So before you think this problem
+is far away from me,
+just know, it's as American
+as apple pie.
+Alright, well.
+See you on the boat next week,
+that was all for.
+Alright, see you later.
+[ Upbeat music ]
+[ Upbeat music ]""","""00:00:02>00:00:03 [ Upbeat music ]
+00:00:03>00:00:04 -In the open ocean you get
+to pick
+00:00:04>00:00:06 what countries' rules
+apply to you.
+00:00:06>00:00:07 And the rich and powerful
+pick the countries
+00:00:07>00:00:10 that conveniently
+let them pay no taxes,
+00:00:10>00:00:13 skip safety regulations
+and screw over their crews.
+00:00:13>00:00:16 We're here to break down
+how the rich live above the law,
+00:00:16>00:00:20 setup systems to do it
+and fuck over the rest of us.
+00:00:20>00:00:22 Welcome, to Offshore.
+00:00:22>00:00:27 [ Upbeat music ]
+00:00:27>00:00:28 Ahoy motherfuckers.
+00:00:28>00:00:30 Why are wealthy people
+throwing up flags
+00:00:30>00:00:32 for random countries
+on their damn boats?
+00:00:32>00:00:33 And how does help them
+get richer,
+00:00:33>00:00:36 avoid rules like say,
+paying your workers?
+00:00:36>00:00:37 Are mega yachts mega fucked?
+00:00:37>00:00:39 Or are companies
+and the rich getting away
+00:00:39>00:00:41 with this offshore scheming?
+00:00:41>00:00:43 Okay.
+Let's get into who's doing this.
+00:00:43>00:00:46 The big three cruise lines
+are headquartered in Miami,
+00:00:46>00:00:48 but they fly flags
+of offshore countries
+00:00:48>00:00:51 to avoid regulations
+and to save money.
+00:00:51>00:00:54 Norwegian Cruises, they flay the
+flag of our old friend Bermuda.
+00:00:54>00:00:58 Carnival Cruises,
+Carnival cruises fly's half
+00:00:58>00:01:00 and half mix of Panama
+and the Bahamas.
+00:01:00>00:01:03 Oh.
+And the Royal Caribbean Cruises
+00:01:03>00:01:06 based out of the beautiful
+Caribbean country of Liberia,
+00:01:06>00:01:10 which is actually in Africa.
+And not the Caribbean.
+00:01:10>00:01:14 Don't tell me what to do,
+I'm cruising baby.
+00:01:14>00:01:15 Who else is doing this?
+00:01:15>00:01:17 Larry Ellison,
+founder of software giant
+00:01:17>00:01:21 Oracle has the Cayman's flag
+out for his super yacht.
+00:01:21>00:01:23 Trump education secretary
+Betsy DeVos's
+00:01:23>00:01:27 164 foot family yacht
+was registered in the Cayman's.
+00:01:27>00:01:30 Despite being docked
+in Huron, Ohio.
+00:01:30>00:01:32 So much for America
+first I guess.
+00:01:32>00:01:34 Amazon founder
+and want-to-be space cowboy Jeff
+00:01:34>00:01:36 Bezos has a mega yacht.
+00:01:36>00:01:39 That recently made news in the
+Netherlands for being so large
+00:01:39>00:01:40 they planned to remove
+a bridge
+00:01:40>00:01:42 so it could get out
+to the ocean.
+00:01:42>00:01:43 So does this
+American billionaire,
+00:01:43>00:01:46 known for exploiting
+American warehouse workers,
+00:01:46>00:01:48 have an American yacht?
+No, of course not.
+00:01:48>00:01:50 It's also registered
+in the Cayman's.
+00:01:50>00:01:52 So we'll talk about
+how the fuck they do this,
+00:01:52>00:01:55 but first why
+the fuck they do this.
+00:01:55>00:01:58 You skip on taxes,
+safety and wages.
+00:01:58>00:02:01 Not taxed in your home country,
+you're just paying a little fee
+00:02:01>00:02:02 in whatever country
+you're setup in.
+00:02:02>00:02:04 What about wages
+and safety for workers?
+00:02:04>00:02:06 America has labor laws,
+but you don't have to worry
+00:02:06>00:02:08 about those out here
+on the high seas.
+00:02:08>00:02:11 Your ship caught up
+in a disaster, an oil spill,
+00:02:11>00:02:13 well that's the business of you
+and the country of whatever flag
+00:02:13>00:02:15 is flapping around
+the back of your boat.
+00:02:15>00:02:19 So when did all this start?
+After the Titanic sunk in 1912,
+00:02:19>00:02:21 a worker safety
+and protection law was passed.
+00:02:21>00:02:24 The American Seaman's
+Act of 1915.
+00:02:24>00:02:27 Big boat businessmen
+who were like,
+00:02:27>00:02:29 we don't want to have to deal
+with all these ridiculous,
+00:02:29>00:02:33 unfair rules like having
+food onboard for sailors,
+00:02:33>00:02:37 letting them sleep,
+having silly little lifeboats.
+00:02:37>00:02:40 So they registered ships
+in offshore countries,
+00:02:40>00:02:43 open boat registries
+were setup in countries
+00:02:43>00:02:45 that allowed your boat
+and the business of that boat
+00:02:45>00:02:47 to follow the much more
+chilled rules
+00:02:47>00:02:50 of those far-flung countries.
+As opposed to your home country.
+00:02:50>00:02:52 Or the country where
+the business makes its money.
+00:02:52>00:02:56 That would make too much sense.
+All legal, shady, but legal.
+00:02:56>00:02:58 The ocean industry,
+mostly cargo ships,
+00:02:58>00:03:00 oil platforms and tankers
+00:03:00>00:03:03 is dominated by boat
+registries in Panama,
+00:03:03>00:03:05 Liberia
+and the Marshall Islands.
+00:03:05>00:03:06 All in all,
+flags of convenience
+00:03:06>00:03:09 are a big part of the sea biz
+and its problems.
+00:03:09>00:03:12 Take the example of
+the Deepwater Horizon oil rig.
+00:03:12>00:03:13 Remember that little incident?
+00:03:13>00:03:16 It was a floating
+semi-submersible drilling unit.
+00:03:16>00:03:18 So, sort of a boat.
+00:03:18>00:03:22 Anyway, it exploded and spilled
+210 million gallons of oil,
+00:03:22>00:03:24 devastating marine life
+and resulting
+00:03:24>00:03:26 in the worst ecological
+disaster in US history.
+00:03:26>00:03:29 Investigation showed a clear
+lack of safety concerns.
+00:03:29>00:03:31 And that was made
+all the more possible
+00:03:31>00:03:33 when you're flying the flag
+of a country with insufficient,
+00:03:33>00:03:36 unenforced regulations,
+like the Marshall Islands.
+00:03:36>00:03:40 Of all the industries to fly
+the least regulated flags
+00:03:40>00:03:41 is the oil industry.
+00:03:41>00:03:44 The dirtiest, oiliest, grossest
+most ecological disaster
+00:03:44>00:03:46 waiting to happen.
+Can we regulate one industry
+00:03:46>00:03:48 that's destroying our world?
+00:03:48>00:03:50 They can't be trusted.
+So what about this cruise ship?
+00:03:50>00:03:52 Let me tell you about
+the Nordic Empress.
+00:03:52>00:03:55 In 1993, the Coast Guard
+caught the ship
+00:03:55>00:03:56 owned by Royal Caribbean,
+00:03:56>00:03:59 dumping oil in the ocean
+by the Bahamas.
+00:03:59>00:04:01 They eventually discover
+a conspiracy to save money
+00:04:01>00:04:04 on all of their boats
+by dumping waste into the ocean.
+00:04:04>00:04:06 Royal Caribbean denied
+all this and said,
+00:04:06>00:04:08 you can't come after us anyways,
+00:04:08>00:04:11 because we fly
+the flag of Liberia.
+00:04:11>00:04:12 What the fuck is up
+with the Empress?
+00:04:12>00:04:15 She's Caribbean, she's Nordic,
+she's really Liberian.
+00:04:15>00:04:18 Who the fuck knows?
+Consider me unimpressed.
+00:04:18>00:04:20 Guess who else uses flags
+of convenience,
+00:04:20>00:04:22 the kings of the offshore.
+00:04:22>00:04:25 You know them, you hate them,
+the Russian oligarchs.
+00:04:25>00:04:27 These fuckers.
+And as you might have seen,
+00:04:27>00:04:29 some of their tacky-ass
+mega-yachts
+00:04:29>00:04:31 are getting chased down
+at ports around the world.
+00:04:31>00:04:35 So, what's going on here?
+Remember, Russian oligarchs
+00:04:35>00:04:37 are essentially
+incredibly wealthy businessmen
+00:04:37>00:04:39 with extreme
+political influence.
+00:04:39>00:04:41 They gain monumental wealth
+00:04:41>00:04:43 for the privatization
+of state-run industries
+00:04:43>00:04:45 after the collapse
+of the Soviet Union.
+00:04:45>00:04:48 Now, they're also the guys
+who got positions of power
+00:04:48>00:04:49 because they're pals of Putin.
+00:04:49>00:04:51 And they love
+their giant yachts,
+00:04:51>00:04:53 they're essentially
+just private cruise ships.
+00:04:53>00:04:55 Roman Abramovich
+owns the Eclipse.
+00:04:55>00:04:58 The Eclipse is the worlds
+second longest private yacht.
+00:04:58>00:05:00 Has two helipads
+and one mini submarine.
+00:05:00>00:05:03 It's worth about
+half a billion dollars.
+00:05:03>00:05:05 Registered in Bermuda.
+00:05:05>00:05:08 Or there's Dmitry Kamenshchik
+super yacht the Flying Fox.
+00:05:08>00:05:11 Worth about $400 million.
+00:05:11>00:05:13 Jay-Z and Beyoncé
+have been to known party on.
+00:05:13>00:05:16 This Russian oligarch
+might have 99 problems,
+00:05:16>00:05:18 but picking a flag isn't one.
+00:05:18>00:05:21 He went with the Cayman Islands
+for his yacht
+00:05:21>00:05:23 that houses
+an actual Turkish bath
+00:05:23>00:05:26 and a specially designed
+submarine garage.
+00:05:26>00:05:28 If you have Turkish bath
+on your yacht,
+00:05:28>00:05:29 that's a cruise ship my man.
+00:05:29>00:05:31 Why do these guys all want
+a private cruise ship,
+00:05:31>00:05:34 cruise ships suck,
+stay on land, I don't know.
+00:05:34>00:05:36 What do they want
+the buffets and shit?
+00:05:36>00:05:38 I wouldn't mind
+owning a yacht honestly.
+00:05:38>00:05:42 But now these yachts
+are getting hunted down.
+00:05:42>00:05:45 After the 2022
+Russian invasion of Ukraine,
+00:05:45>00:05:47 countries sanctioned Putin
+and the oligarchs.
+00:05:47>00:05:49 Remember, these guys
+are basically
+00:05:49>00:05:51 running the country of Putin.
+00:05:51>00:05:53 The target oligarchs hid
+their wealth in the offshore.
+00:05:53>00:05:55 So western countries
+couldn't get at it.
+00:05:55>00:05:57 Russian oligarchs yachts turn
+their navigation transponders
+00:05:57>00:05:59 off
+and sailed to ports
+00:05:59>00:06:01 where they less likely
+to be searched and seized.
+00:06:01>00:06:04 But you can't just throw a car
+cover over one of these babies.
+00:06:04>00:06:06 Dilbar is a giant yacht, it was
+docked for work in Germany.
+00:06:06>00:06:10 Its owner was unclear
+and complicated.
+00:06:10>00:06:12 But EU officials
+cracked the case.
+00:06:12>00:06:14 It's a Russian nesting
+doll game with these guys.
+00:06:14>00:06:16 It was owned by a company
+in the Cayman Islands
+00:06:16>00:06:18 where it's registered.
+00:06:18>00:06:23 But, that company's owned
+by another company in Greece,
+00:06:23>00:06:27 which is then owned by
+another company in Switzerland.
+00:06:27>00:06:29 And then it keeps going.
+00:06:29>00:06:32 That's how shell company's work,
+they just keep going.
+00:06:32>00:06:34 Til you get a little guy, oop,
+nope still not it,
+00:06:34>00:06:37 still looking for
+that final shell company.
+00:06:37>00:06:39 Until we get, oh no,
+00:06:39>00:06:42 it's even smaller,
+little baby Russian oligarch.
+00:06:42>00:06:45 The center is Russian oligarch,
+Alisher Usmanov.
+00:06:45>00:06:48 He's our little Russian doll.
+Little baby oligarch.
+00:06:48>00:06:51 Claims it's not his yacht,
+so you can't take it,
+00:06:51>00:06:53 when in reality it's owned
+through several shell companies.
+00:06:53>00:06:55 He's setup
+for finally transferring
+00:06:55>00:06:57 ownership to his sister.
+00:06:57>00:06:59 He just gives something
+to your sister
+00:06:59>00:07:00 and pretend it's not yours,
+this isn't 7th Heaven.
+00:07:00>00:07:01 Where you get caught
+with cigarettes
+00:07:01>00:07:03 and blame it on your sister.
+00:07:03>00:07:04 Despite all this
+offshore concealment,
+00:07:04>00:07:07 in March 2022 Germany
+seized the boat.
+00:07:07>00:07:09 When countries have incentive
+it seems
+00:07:09>00:07:11 that then all of a sudden
+00:07:11>00:07:12 they can cut through
+the offer of bullshit.
+00:07:12>00:07:15 If you can figure out
+one of the worlds largest yachts
+00:07:15>00:07:17 is owned by an Russian oligarch
+and its in your country's port,
+00:07:17>00:07:20 then you can sell it and maybe
+keep some of that money.
+00:07:20>00:07:22 In Antigua and Barbuda,
+they just seized a yacht,
+00:07:22>00:07:25 the Alfa Nero.
+Flagged in the Cayman Islands.
+00:07:25>00:07:28 It seemed to be owned by
+Russian oligarch Andrey Guryev.
+00:07:28>00:07:31 Who denied owning it through
+some shady offshore structure.
+00:07:31>00:07:33 It has a lot of necessary
+amenities like a swimming pool
+00:07:33>00:07:35 that converts into a helipad.
+00:07:35>00:07:37 Antigua and Barbuda
+gave the owner ten days
+00:07:37>00:07:39 to step forward
+or they'd auction it off.
+00:07:39>00:07:41 And no one showed up.
+00:07:41>00:07:43 Well that yacht,
+that's not my yacht.
+00:07:43>00:07:45 Former Google CEO Eric Schmidt
+00:07:45>00:07:47 bought the boat
+for $67.6 million.
+00:07:47>00:07:50 What a steal, practically free.
+And if you think maybe
+00:07:50>00:07:52 this money's going to Ukraine
+or something,
+00:07:52>00:07:56 well, that's very sweet of you,
+but also wrong. How about this.
+00:07:56>00:08:00 Sanctioned oligarch
+Dmitry Pumpyansky's yacht,
+00:08:00>00:08:02 the Axioma,
+was seized off of Gibraltar.
+00:08:02>00:08:06 The yacht ultimately
+fetched $37.5 million in auction
+00:08:06>00:08:10 and US investment bank JPMorgan
+got the money from the sale.
+00:08:10>00:08:14 The bank got $23 million back
+that they previously loaned
+00:08:14>00:08:17 to a billionaire Russian
+oligarch for some reason.
+00:08:17>00:08:24 [ Upbeat music ]
+00:08:24>00:08:27 Flags of convenience
+as a scam is serious.
+00:08:27>00:08:28 It's not just money,
+it's the environment
+00:08:28>00:08:31 and it's peoples lives too.
+Like how about this.
+00:08:31>00:08:34 Cargo boat owners routinely
+abandoned crews on ships
+00:08:34>00:08:37 at far-flung ports when
+they deem repairs too costly.
+00:08:37>00:08:39 Qatar-based company
+called Aswan Trading
+00:08:39>00:08:43 and Contracting recently
+abandoned three different ships.
+00:08:43>00:08:45 Some people were left at sea
+for over two years
+00:08:45>00:08:46 with no electricity,
+00:08:46>00:08:48 no running water
+and no sanitary facilities.
+00:08:48>00:08:51 The company confuses authorities
+that their owners are structure,
+00:08:51>00:08:53 remember those
+Russian nesting dolls?
+00:08:53>00:08:56 And of course their ships
+flew flags of convenience.
+00:08:56>00:08:57 These people are miles,
+00:08:57>00:08:59 thousands of miles
+away from home,
+00:08:59>00:09:00 getting paid
+the cheapest amount,
+00:09:00>00:09:02 with no safety,
+no meals, no sleep
+00:09:02>00:09:05 and then at the end
+they're just abandoned.
+00:09:05>00:09:07 Just fly them home,
+just finish the job,
+00:09:07>00:09:10 it's so ridiculous,
+how much money do you need?
+00:09:10>00:09:12 Listen, I get it,
+you're trying to do business.
+00:09:12>00:09:14 Just take a little bit
+of responsibility,
+00:09:14>00:09:17 just a small, just stop
+pretending your boat
+00:09:17>00:09:19 is in Panama, Liberia,
+and Marshall Islands,
+00:09:19>00:09:22 wherever, stop playing
+make pretend.
+00:09:22>00:09:24 Just take this little bit
+of responsibility.
+00:09:24>00:09:27 Pay your people.
+Let them eat, let them sleep!
+00:09:27>00:09:29 It's just this much, how much
+money are you even saving?
+00:09:29>00:09:32 Please, just a little bit.
+Here's this last little tidbit.
+00:09:32>00:09:34 Forty percent
+of the oceans ships
+00:09:34>00:09:36 are flagged in former
+US colonies.
+00:09:36>00:09:38 Setup by US businessmen
+00:09:38>00:09:41 and still sold
+as the state of Virginia.
+00:09:41>00:09:43 So before you think this problem
+is far away from me,
+00:09:43>00:09:47 just know, it's as American
+as apple pie.
+00:09:47>00:09:50 Alright, well.
+00:09:50>00:09:53 See you on the boat next week,
+that was all for.
+00:09:53>00:09:55 Alright, see you later.
+00:09:55>00:10:01 [ Upbeat music ]
+00:10:01>00:10:07 [ Upbeat music ]
+""","The video discusses the concept of ""flags of convenience,"" a practice in which owners of ships and yachts register their vessels in countries other than their own to benefit from more lenient regulations and lower fees. This allows wealthy individuals and corporations to avoid taxes, safety and wage regulations, and other responsibilities that they would be subjected to in their home countries. The video highlights examples where flagship cruise lines and the yachts of billionaires like Larry Ellison, Betsy DeVos, and Jeff Bezos are registered in countries such as Bermuda, the Bahamas, and the Cayman Islands.
+
+The history of this phenomenon dates back to after the Titanic disaster when the American Seaman's Act of 1915 was passed, which led to ship owners seeking ways to avoid strict safety regulations. This led to the creation of open boat registries in countries with lax rules.
+
+The video also talks about the environmental and human costs associated with flags of convenience. It cites the Deepwater Horizon oil spill, where the flag of the Marshall Islands played a role in the lack of safety that contributed to the incident. Furthermore, it discusses the case of the Nordic Empress, a Royal Caribbean ship found dumping oil, which used its Liberian registration to evade the U.S. jurisdiction.
+
+It explains how Russian oligarchs use flags of convenience along with complex ownership structures, like shell companies, to hide assets and evade sanctions, as revealed by the seizure of mega-yachts owned by Russian oligarchs following the 2022 Russian invasion of Ukraine.
+
+The video also demonstrates the human cost, where cargo boat owners have abandoned crews at sea in deplorable conditions due to the cost of repairs, exploiting the flags of convenience to leave authorities confused about the ownership and responsibility of the vessels.
+
+Finally, the video states that 40% of the world's ships are flagged in former U.S. colonies, highlighting that the problem is closely tied to American business practices and not just an international issue.
+
+The video concludes by calling for greater corporate and individual responsibility, urging those taking advantage of flags of convenience to treat workers fairly, comply with safety regulations, and not to neglect environmental stewardship for the sake of profits.","The video discusses how the wealthy and powerful use offshore flags of convenience on their yachts and ships to avoid taxes, regulations, and responsibilities. It highlights examples of cruise lines, billionaires, and Russian oligarchs using this system. The use of flags of convenience has led to safety concerns, environmental disasters, and exploitation of workers. The video emphasizes the need for accountability and responsible behavior in the maritime industry.","The video discusses how wealthy individuals and companies use ""flags of convenience"" to avoid regulations and taxes when it comes to their luxury yachts. A ""flag of convenience"" refers to the practice of a ship flying the flag of a country other than its own in order to take advantage of lax regulations or lower taxes. The video specifically mentions the cases of Russian oligarchs and their use of offshore flags to avoid sanctions. It also discusses how some countries, like Germany, have recently seized yachts owned by Russian oligarchs in their ports in an effort to enforce sanctions.
+
+The video also touches on the history of flags of convenience, noting that they have been used by the shipping industry for decades to avoid regulations and taxes. It highlights the case of the Deepwater Horizon oil spill, which involved a ship flying the flag of the Marshall Islands, a country with lax regulations. The video argues that this practice is problematic because it allows companies to avoid accountability and safety regulations, which can result in disasters like the Deepwater Horizon spill.
+
+Overall, the video is critical of the use of flags of convenience and argues that they allow wealthy individuals and companies to avoid their responsibilities and accountabilities. It suggests that countries should take action to prevent this practice and ensure that companies and individuals are held accountable for their actions.","The video talks about how wealthy people use flags of convenience to avoid taxes and regulations. It also discusses how this can lead to environmental damage and exploitation of workers.
+
+Flags of convenience are flags that are flown by ships that are registered in countries other than the country where the ship is owned or operated. This is often done to avoid taxes and regulations in the home country.
+
+The video gives the example of the Deepwater Horizon oil rig, which was registered in the Marshall Islands. The rig exploded in 2010, causing the worst oil spill in US history. The Marshall Islands has very lax regulations on oil rigs, and this may have contributed to the disaster.
+
+The video also discusses how flags of convenience can be used to exploit workers. For example, cargo ship owners have been known to abandon crews on ships at far-flung ports when they deem repairs too costly. The Aswan Trading and Contracting company, for example, recently abandoned three different ships. Some of the crew members were left at sea for over two years with no electricity, running water, or sanitary facilities.
+
+The video concludes by calling on wealthy people to take responsibility for their actions and to stop using flags of convenience. It also calls on governments to crack down on the use of flags of convenience."
+5,"Channel: 'Top LuxuryTop 10' on Biggest Megaprojects in Europe
+",https://www.youtube.com/watch?v=ZSD_dAwl8Dg,"""From the largest offshore wind farm the world has
+ever seen, to a deeply controversial canal that
+threatens the political stability in the Black
+Sea. These are the top 10 megaprojects in Europe.
+This video is sponsored by
+Squarespace. More on that later.
+We start off with
+Number 10: The Stad Ship Tunnel - $272M
+Over in the rocky coasts of Norway lies
+a patch of sea feared by many sailors.
+Considered as the convergence of the North Sea
+and the Norwegian Sea, the Stadhavet Sea is one
+of the busiest maritime routes in the country.
+Historically, the area has been known to be one
+of the most dangerous waters along the coast with
+unpredictable winds and weather conditions. It
+has been documented by historians that even the
+Vikings would choose to drag their boats across
+land instead of sailing through these waters.
+Today, the Stadhavet Sea is still widely
+regarded as a treacherous area for even
+the most experienced sailors. In fact,
+most ships today usually wait for days until the
+waters have calmed and safe passage is possible.
+To make traversing this area safer, the Norwegian
+Coastal Administration drafted plans to create
+what would become the world’s first full-size
+ship tunnel. The Stad Ship Tunnel would completely
+bypass the dangerous Stadhavet Sea and cut
+right through the Stad Peninsula, reducing
+travel times by up to two hours. The tunnel
+will be 1.8 kilometers long, 50 meters wide,
+and 36 meters high. It will be able to accommodate
+as much as 120 ships each day. Once completed,
+the Stad Ship Tunnel will be the first of its
+kind in the world allowing for the passage of
+full-size oil tankers and cruise ships.
+In 2021, the project got approval from
+the Norwegian government with a budget of more
+than 272 million USD. Construction on the Stad
+Ship Tunnel is expected to begin some time in
+2024 and is estimated to be completed by 2026.
+Number 9: Frankfurt International
+Airport Expansion Project - $5.7B
+Frankfurt International Airport is by far
+Germany's largest and busiest international
+airport serving as much as 70 million passengers
+each year. As well as being the busiest passenger
+airport in the country, Frankfurt International is
+also Europe’s busiest cargo hub handling more than
+2 million tons of shipments just last year alone.
+Because of its importance as a major European
+transport hub, and the ever-growing number
+of passengers each year, a $5.7 billion
+expansion project was initiated back in 2005 to
+improve the airport’s facilities and increase
+the airport's passenger and cargo capacity.
+One of these projects was the expansion of
+the airport’s oldest terminal that extended the
+structure’s length by 800 meters allowing for a
+total of seven new wide-body aircraft stands.
+This expansion alone increased the airport’s
+capacity by more than six million passengers
+each year when it was completed in 2012.
+Another project that drastically changed the
+airport’s layout was the creation of a new
+2.8-kilometer runway in 2011 that ran from east to
+west. With this new runway, simultaneous landings
+were now possible which significantly increased
+the amount of aircrafts the airport could handle.
+Finally in 2015, construction on a brand new
+third terminal in a plot of land south of the
+runways began. The area used to be the site of a
+US airbase, but was reclaimed by the airport when
+the base closed down in 2005. The new terminal
+3 is expected to increase the airport’s capacity
+by as much as 19 million passengers annually
+and cost more than $1.1 billion to construct.
+Because of delays brought by the COVID-19
+pandemic, the new terminal is now
+expected to open some time in 2026.
+Number 8: Istanbul Canal - $10-15B
+Situated at the crossroads between Europe and
+Asia, the city of Istanbul in Turkey is located
+at one of the most strategic locations in the
+world. The city itself is built on either side
+of the critical Bosphorus Strait that connects the
+Black Sea to the Mediterranean and to the rest of
+the world’s oceans. This natural waterway
+on its own sees more ships pass through it
+compared to the Panama and Suez canals combined.
+However, despite being completely within Turkish
+borders, Turkey actually doesn’t benefit from
+the strait financially. This is because of an
+international treaty that Turkey signed back
+in 1936 called the Montreux Convention that
+regulates its use. The agreement ensured Turkey’s
+neutrality during WW2 by heavily restricting the
+access of warships in the strait, and it also
+guaranteed free access to all civilian vessels.
+As one of the world’s busiest shipping routes,
+the strait is oftentimes congested to the point
+wherein ships usually have to wait days
+just to pass through it. To minimize this
+shipping traffic, the Turkish government is
+planning to construct the Istanbul Canal. An
+artificial waterway that would cut right
+through the European side of Istanbul,
+effectively turning it into an island.
+The new canal would be 45 kilometers long
+and is estimated to cost the Turkish government
+as much as $15 billion. It began construction in
+2021 and is expected to take seven years to
+complete. This new waterway would completely
+bypass the Bosphorus, and some experts even
+argue, the Montreux Convention itself. With this,
+Turkish allies such as the United States could in
+theory be given access to the Black Sea and send
+warships just outside of Russia’s borders.
+Turkey would also be able to charge vessels
+that pass through it hoping for the project
+to pay for itself over the next few years.
+Number 7: Hornsea 3 & 4 - $19.2B
+As you probably already noticed, we
+are using an amazing 3D size comparison animation
+for this video. Our partners from \""To the Top\""
+helped us with this. If you want to see more
+videos like this, be sure to subscribe to their
+channel! But now we continue with Hornsea 3 & 4.
+When it comes to offshore wind power, the United
+Kingdom is the second largest producer
+in the world only behind China. In fact,
+4 out of the 5 largest offshore wind farms in the
+entire world are all located within the country.
+Most notable of the four are the Hornsea Projects
+One and Two wind farms which are both the second
+and first largest in the world respectively.
+Hornsea 1 and 2 are both located in the North
+Sea 80 kilometers east off the English coast.
+Together, these two wind farms generate a total
+of 2.6GW of power, enough to serve as much as 3
+million UK homes. The wind farm will also take
+up an area of 870 square kilometers which is
+roughly half the area of the city of London.
+However, despite the immense scale of the
+country’s offshore wind farms amounting to
+as much as 14GW of total generation, they
+are still a long way from their goal of
+reaching a combined capacity of 50 GW by 2030.
+Because of this, newer and bigger offshore wind
+farms are currently being planned to be built
+in the country. Hornsea 3 is one of these
+wind farms currently under construction and is
+expected to be finished by 2027. The project is
+planned to be built east of Hornsea 1 over an
+area of 700 square kilometers. Once complete,
+Hornsea 3 is expected to generate 2.8 GW of
+power through 230 individual wind turbines.
+Even more power than Hornsea 1 and 2 combined.
+Finally, Hornsea 4 is currently in its planning
+stage and will cover an area of 600 square
+kilometers northwest of Hornsea 1. The project
+is expected to start construction in 2023
+and aims to be operational by the year 2027.
+Number 6: Energy Islands of Denmark - $30B
+Continuing with the topic of offshore wind farms,
+Denmark is no stranger when it comes to the
+technology. The world’s first ever offshore
+wind farm was actually built in the country way
+back in 1991 and served as a catalyst for the
+further development of the technology. Today, wind
+power accounts for almost half of Denmark’s energy
+production; the highest percentage in the world.
+As part of their goal to further develop its
+sources of clean and renewable energy, the
+Danish government is planning to undergo the
+largest construction project in the entire
+country’s history. By 2030 Denmark aims to
+build the world’s first ever Energy Islands;
+which will connect massive offshore wind
+farms to Denmark and neighboring countries.
+Denmark’s Energy Islands will consist of two
+large-scale offshore wind farms located in the
+North and Baltic Seas. An artificial island will
+be created in the North Sea section to act as
+a central hub for the area and once completed,
+would have a total capacity of up to 10GW,
+enough to serve 10 million European households.
+The island of Bornholm in the Baltic will serve
+as the second hub and have a capacity of 3GW.
+Once completed, the Energy Islands would
+increase Denmark’s wind energy capacity
+by as much as sevenfold. Construction on the
+project is expected to begin as early as 2024.
+Number 5: European route E39 - $30.6B
+Because of Norway’s coastal geography
+being extremely rocky, mountainous, and separated
+by thousands of tiny islands, it has always been
+difficult to navigate. The European route E39
+tries to solve this very problem by providing an
+easy to traverse path along the Norwegian coast.
+But even with the E39 in place, the 1,300 km long
+route still does not solve the problem
+of creating a continuous path along the
+entire Norwegian coast. This is because the
+E39, despite being designated as a single
+highway that goes all the way from Denmark up
+to the middle of Norway, is actually composed
+of many different sections across vast stretches
+of water. Driving through the entire route would
+require travelers to board seven different ferry
+connections and would take at least an entire day.
+However, this is all about to change as the
+Norwegian government is planning to cut the
+20+ hours of travel time in half. They plan
+to achieve this by completely eliminating all
+the required ferry connections. This will be
+done through a series of tunnels and bridges
+that would bypass the water crossings along the
+route. Essentially creating a continuous path from
+Aalborg in Denmark, up to Trondheim in Norway.
+One vital part of this upgrade to the E39 is
+the Rogfast Subsea Tunnel which would connect
+the city of Stavanger and Bokn in Norway under
+a 15-kilometer stretch of water. If completed,
+the tunnel would become the world’s longest and
+deepest road tunnel with a length of 27 km
+and a depth of almost 400 meters below the
+surface. Work on the tunnel began back in 2018
+and it is currently expected to open in 2033.
+The project also calls for the creation of
+four individual floating highways that would
+carry the E39 across some of Norway’s
+largest, and most breathtaking fjords.
+One of these planned bridges would go over the
+Bjørnafjorden and span a total of five kilometers
+above the water. Once completed, this floating
+bridge would become the longest in the world;
+more than doubling the current record.
+Number 4: Grand Paris Express - $38B
+The Paris Metro is one of the busiest metro
+systems in the entire world, seeing as much as 4
+million passengers each day. It is also known for
+its iconic entrances all built in the early 1900s
+in the Art Nouveau architectural style. Being
+one of the most visited cities in the world,
+Paris suffers from the worst traffic congestions
+in Europe. To combat this worsening problem,
+it has been a top priority for the city
+government to build infrastructure that would
+facilitate the millions of commuters
+that pass through Paris every day.
+One major project that is aimed to combat Paris’
+worsening traffic is the Grand Paris Express. The
+largest transport project in the city which aims
+to further increase the reach and connectivity
+of the already intricate Paris Metro. The project
+calls for the creation of four entirely new lines
+and the extension of two existing ones. In
+total, the Grand Paris Express is expected
+to create 200 km of new tracks along with 68
+new stations capable of serving an additional 2
+million passengers daily. Construction of the new
+lines began back in 2015 and is currently being
+constructed in phases up to the year 2030.
+Before we get to the top 3 biggest
+megaprojects in Europe, we want to thank
+Squarespace for sponsoring this video.
+With Squarespace you can create your own
+beautiful website in a super easy way.
+We actually built our own Top Luxury website by
+using their fully customizable templates and their
+simple drag-and-drop Fluid Engine. The process
+is super easy and it only took a couple of hours.
+But Squarespace offers more than their simple
+website builder. You can easily connect
+third-party extensions or use their powerful
+built-in tools. For example, we are using the
+blogging tool which allows us to automatically
+schedule articles about new megaprojects. So
+whenever we upload a YouTube video, we can
+also share it as an article on our website.
+And their website analytics tool gives us
+powerful insights about who is visiting
+our website and how they're
+interacting with our content.
+If you want to get started you can head
+to Squarespace.com for a free trial,
+and when you're ready to launch, go to
+squarespace.com/topluxury to save 10%
+off your first purchase of a website or domain.
+Now, let's continue with
+Number 3: Hinkley Point C
+Nuclear Power Station - $47B
+Nuclear power plants are notoriously
+known to be both very expensive to build,
+and extremely costly to decommission. However, if
+managed properly, their benefits can far outweigh
+their initial costs. So when the Hinkley Point
+C Nuclear Power Station in the United Kingdom
+was first proposed in 2010 it was met with
+mixed opinions from the British people. But
+with substantial financial backing from both
+French and British energy companies, everything
+was looking quite well for the new plant.
+Hinkley Point C is part of a new generation of
+nuclear power plants that are meant to replace the
+country’s old, costly, and inefficient plants. The
+project was initially slated to complete in the
+early 2020s and have a total capacity of 3.2GW,
+enough to supply 7% of the entire country’s
+energy needs. However, the construction was
+unfortunately met with multiple delays that pushed
+its completion date by 8 years and saw its cost
+balloon to more than double of initial estimates.
+For one, one of Hinkley Point C’s financial
+backers withdrew from the project back in 2013
+amidst rising construction costs caused by
+the 2011 Fukushima disaster. The COVID-19
+pandemic further exacerbated the already
+delayed project with supply chain complications
+and cutting down on people working on the site.
+Today, the project is still under construction and
+is now estimated to cost as much as $47 billion,
+more than twice of its initial price
+tag with the completion date being
+pushed back to as far as 2028.
+Number 2: High Speed 2 - $132B
+When the high-speed train connection between
+London and the Channel Tunnel opened in 2007,
+it was met with huge success.
+Constructed on time and under budget,
+High Speed 1 managed to significantly reduce
+the travel time between London and Paris.
+Because of its unprecedented success, the British
+government looked to create a second high-speed
+line that would connect the British capital to
+major city centers to its north. So in 2009,
+the Department for Transportation started to
+draw up plans for a second high-speed train
+line which would aptly be called High Speed 2.
+High Speed 2’s construction will be done in two
+phases: one going from London to Birmingham,
+and another from Birmingham to Manchester and
+the East Midlands Parkway. As of 2020, the
+estimated budget for the entire project is
+known to go for as much as $132B and will
+become the biggest transport investment
+program in the country in over a century.
+Construction work on the new high-speed line
+started back in 2020 with the creation of viaducts
+and tunnels that would carry the line over and
+under different terrain. The project is estimated
+to be completed some time in the early 2030s.
+Number 1: Trans-European Transport Network - $625B
+The European Union is known for its vast and
+interconnected web of roads, railways, and
+airports that make it extremely easy for people to
+go in and out of different countries. In fact, 27
+European countries are all part of what is called
+the Schengen Area. Travel between countries within
+this area is largely free of border controls
+and functions as a single jurisdiction
+all covered under a single visa policy.
+As part of an effort to further connect the
+European nations and make travel easier,
+the EU drafted plans to create what is
+essentially an all encompassing transport
+network across the entire continent. The
+Trans-European Transport Network is a
+long-term project that will consist of roads,
+railways, airports, seaports, waterways, and
+telecommunications infrastructure that would
+solidify the EU as a single interconnected
+entity. The entire project will be divided into
+nine different sections called core network
+corridors that would cover all major population
+centers across Europe. The entire project is
+estimated to cost as much as $625B and
+is envisioned to be completed by 2050.
+One notable part of this ambitious vision
+is the Fehmarn Belt Tunnel that will connect
+the German island of Fehmarn to Lolland in
+Denmark. The project started back in 2021
+and once completed in 2029, it would become the
+world’s longest road and rail tunnel. This vital
+piece of infrastructure would drastically
+reduce the travel time between the Danish
+capital of Copenhagen to the German city of
+Hamburg and the rest of continental Europe.
+Another interesting part of the project
+is the Mont Cenis Base Tunnel which will
+cross the Alps and connect Italy and
+France through high-speed rail. It
+is part of the greater Lyon-Turin rail link
+project meant to bring together both country’s
+rail networks for easier trade and travel. At
+a length of 58 kilometers, the Mont Cenis Base
+Tunnel is set to become the world’s longest rail
+tunnel once it is completed some time in 2030.
+Which of these projects are you most excited
+to see? Let us know in the comments below.
+If you want to see more about similar
+projects, you should watch our video about
+the Top 10 Megaprojects in the USA. Thank you for
+watching, and we will see you in the next video!""","""00:00:00>00:00:06 From the largest offshore wind farm the world has
+ever seen, to a deeply controversial canal that
+00:00:06>00:00:12 threatens the political stability in the Black
+Sea. These are the top 10 megaprojects in Europe.
+00:00:12>00:00:15 This video is sponsored by
+Squarespace. More on that later.
+00:00:15>00:00:21 We start off with
+Number 10: The Stad Ship Tunnel - $272M
+00:00:22>00:00:28 Over in the rocky coasts of Norway lies
+a patch of sea feared by many sailors.
+00:00:28>00:00:33 Considered as the convergence of the North Sea
+and the Norwegian Sea, the Stadhavet Sea is one
+00:00:33>00:00:38 of the busiest maritime routes in the country.
+Historically, the area has been known to be one
+00:00:38>00:00:44 of the most dangerous waters along the coast with
+unpredictable winds and weather conditions. It
+00:00:44>00:00:50 has been documented by historians that even the
+Vikings would choose to drag their boats across
+00:00:50>00:00:52 land instead of sailing through these waters.
+Today, the Stadhavet Sea is still widely
+00:00:52>00:00:52 regarded as a treacherous area for even
+the most experienced sailors. In fact,
+00:00:52>00:00:52 most ships today usually wait for days until the
+waters have calmed and safe passage is possible.
+00:00:52>00:00:58 To make traversing this area safer, the Norwegian
+Coastal Administration drafted plans to create
+00:00:58>00:01:04 what would become the world’s first full-size
+ship tunnel. The Stad Ship Tunnel would completely
+00:01:04>00:01:09 bypass the dangerous Stadhavet Sea and cut
+right through the Stad Peninsula, reducing
+00:01:09>00:01:11 travel times by up to two hours. The tunnel
+will be 1.8 kilometers long, 50 meters wide,
+00:01:11>00:01:17 and 36 meters high. It will be able to accommodate
+as much as 120 ships each day. Once completed,
+00:01:17>00:01:22 the Stad Ship Tunnel will be the first of its
+kind in the world allowing for the passage of
+00:01:22>00:01:27 full-size oil tankers and cruise ships.
+In 2021, the project got approval from
+00:01:27>00:01:34 the Norwegian government with a budget of more
+than 272 million USD. Construction on the Stad
+00:01:34>00:01:41 Ship Tunnel is expected to begin some time in
+2024 and is estimated to be completed by 2026.
+00:01:42>00:01:47 Number 9: Frankfurt International
+Airport Expansion Project - $5.7B
+00:01:49>00:01:53 Frankfurt International Airport is by far
+Germany's largest and busiest international
+00:01:53>00:01:59 airport serving as much as 70 million passengers
+each year. As well as being the busiest passenger
+00:01:59>00:02:05 airport in the country, Frankfurt International is
+also Europe’s busiest cargo hub handling more than
+00:02:05>00:02:11 2 million tons of shipments just last year alone.
+Because of its importance as a major European
+00:02:11>00:02:17 transport hub, and the ever-growing number
+of passengers each year, a $5.7 billion
+00:02:17>00:02:23 expansion project was initiated back in 2005 to
+improve the airport’s facilities and increase
+00:02:23>00:02:28 the airport's passenger and cargo capacity.
+One of these projects was the expansion of
+00:02:28>00:02:33 the airport’s oldest terminal that extended the
+structure’s length by 800 meters allowing for a
+00:02:33>00:02:39 total of seven new wide-body aircraft stands.
+This expansion alone increased the airport’s
+00:02:39>00:02:44 capacity by more than six million passengers
+each year when it was completed in 2012.
+00:02:44>00:02:49 Another project that drastically changed the
+airport’s layout was the creation of a new
+00:02:49>00:02:56 2.8-kilometer runway in 2011 that ran from east to
+west. With this new runway, simultaneous landings
+00:02:56>00:03:01 were now possible which significantly increased
+the amount of aircrafts the airport could handle.
+00:03:01>00:03:07 Finally in 2015, construction on a brand new
+third terminal in a plot of land south of the
+00:03:07>00:03:13 runways began. The area used to be the site of a
+US airbase, but was reclaimed by the airport when
+00:03:13>00:03:19 the base closed down in 2005. The new terminal
+3 is expected to increase the airport’s capacity
+00:03:19>00:03:25 by as much as 19 million passengers annually
+and cost more than $1.1 billion to construct.
+00:03:26>00:03:30 Because of delays brought by the COVID-19
+pandemic, the new terminal is now
+00:03:30>00:03:37 expected to open some time in 2026.
+Number 8: Istanbul Canal - $10-15B
+00:03:39>00:03:45 Situated at the crossroads between Europe and
+Asia, the city of Istanbul in Turkey is located
+00:03:45>00:03:50 at one of the most strategic locations in the
+world. The city itself is built on either side
+00:03:50>00:03:55 of the critical Bosphorus Strait that connects the
+Black Sea to the Mediterranean and to the rest of
+00:03:55>00:04:00 the world’s oceans. This natural waterway
+on its own sees more ships pass through it
+00:04:00>00:04:06 compared to the Panama and Suez canals combined.
+However, despite being completely within Turkish
+00:04:06>00:04:11 borders, Turkey actually doesn’t benefit from
+the strait financially. This is because of an
+00:04:11>00:04:15 international treaty that Turkey signed back
+in 1936 called the Montreux Convention that
+00:04:15>00:04:21 regulates its use. The agreement ensured Turkey’s
+neutrality during WW2 by heavily restricting the
+00:04:21>00:04:26 access of warships in the strait, and it also
+guaranteed free access to all civilian vessels.
+00:04:26>00:04:32 As one of the world’s busiest shipping routes,
+the strait is oftentimes congested to the point
+00:04:32>00:04:36 wherein ships usually have to wait days
+just to pass through it. To minimize this
+00:04:36>00:04:41 shipping traffic, the Turkish government is
+planning to construct the Istanbul Canal. An
+00:04:41>00:04:45 artificial waterway that would cut right
+through the European side of Istanbul,
+00:04:45>00:04:50 effectively turning it into an island.
+The new canal would be 45 kilometers long
+00:04:50>00:04:56 and is estimated to cost the Turkish government
+as much as $15 billion. It began construction in
+00:04:56>00:05:02 2021 and is expected to take seven years to
+complete. This new waterway would completely
+00:05:02>00:05:08 bypass the Bosphorus, and some experts even
+argue, the Montreux Convention itself. With this,
+00:05:08>00:05:13 Turkish allies such as the United States could in
+theory be given access to the Black Sea and send
+00:05:13>00:05:18 warships just outside of Russia’s borders.
+Turkey would also be able to charge vessels
+00:05:18>00:05:22 that pass through it hoping for the project
+to pay for itself over the next few years.
+00:05:22>00:05:30 Number 7: Hornsea 3 & 4 - $19.2B
+As you probably already noticed, we
+00:05:30>00:05:36 are using an amazing 3D size comparison animation
+for this video. Our partners from \""To the Top\""
+00:05:36>00:05:41 helped us with this. If you want to see more
+videos like this, be sure to subscribe to their
+00:05:41>00:05:47 channel! But now we continue with Hornsea 3 & 4.
+When it comes to offshore wind power, the United
+00:05:47>00:05:52 Kingdom is the second largest producer
+in the world only behind China. In fact,
+00:05:52>00:05:57 4 out of the 5 largest offshore wind farms in the
+entire world are all located within the country.
+00:05:57>00:06:03 Most notable of the four are the Hornsea Projects
+One and Two wind farms which are both the second
+00:06:03>00:06:08 and first largest in the world respectively.
+Hornsea 1 and 2 are both located in the North
+00:06:08>00:06:14 Sea 80 kilometers east off the English coast.
+Together, these two wind farms generate a total
+00:06:14>00:06:21 of 2.6GW of power, enough to serve as much as 3
+million UK homes. The wind farm will also take
+00:06:21>00:06:27 up an area of 870 square kilometers which is
+roughly half the area of the city of London.
+00:06:27>00:06:32 However, despite the immense scale of the
+country’s offshore wind farms amounting to
+00:06:32>00:06:37 as much as 14GW of total generation, they
+are still a long way from their goal of
+00:06:37>00:06:43 reaching a combined capacity of 50 GW by 2030.
+Because of this, newer and bigger offshore wind
+00:06:43>00:06:48 farms are currently being planned to be built
+in the country. Hornsea 3 is one of these
+00:06:48>00:06:54 wind farms currently under construction and is
+expected to be finished by 2027. The project is
+00:06:54>00:07:00 planned to be built east of Hornsea 1 over an
+area of 700 square kilometers. Once complete,
+00:07:00>00:07:06 Hornsea 3 is expected to generate 2.8 GW of
+power through 230 individual wind turbines.
+00:07:06>00:07:13 Even more power than Hornsea 1 and 2 combined.
+Finally, Hornsea 4 is currently in its planning
+00:07:13>00:07:19 stage and will cover an area of 600 square
+kilometers northwest of Hornsea 1. The project
+00:07:19>00:07:26 is expected to start construction in 2023
+and aims to be operational by the year 2027.
+00:07:26>00:07:33 Number 6: Energy Islands of Denmark - $30B
+Continuing with the topic of offshore wind farms,
+00:07:33>00:07:38 Denmark is no stranger when it comes to the
+technology. The world’s first ever offshore
+00:07:38>00:07:44 wind farm was actually built in the country way
+back in 1991 and served as a catalyst for the
+00:07:44>00:07:50 further development of the technology. Today, wind
+power accounts for almost half of Denmark’s energy
+00:07:50>00:07:55 production; the highest percentage in the world.
+As part of their goal to further develop its
+00:07:55>00:08:00 sources of clean and renewable energy, the
+Danish government is planning to undergo the
+00:08:00>00:08:05 largest construction project in the entire
+country’s history. By 2030 Denmark aims to
+00:08:05>00:08:10 build the world’s first ever Energy Islands;
+which will connect massive offshore wind
+00:08:10>00:08:15 farms to Denmark and neighboring countries.
+Denmark’s Energy Islands will consist of two
+00:08:15>00:08:21 large-scale offshore wind farms located in the
+North and Baltic Seas. An artificial island will
+00:08:21>00:08:26 be created in the North Sea section to act as
+a central hub for the area and once completed,
+00:08:26>00:08:31 would have a total capacity of up to 10GW,
+enough to serve 10 million European households.
+00:08:31>00:08:38 The island of Bornholm in the Baltic will serve
+as the second hub and have a capacity of 3GW.
+00:08:38>00:08:43 Once completed, the Energy Islands would
+increase Denmark’s wind energy capacity
+00:08:43>00:08:49 by as much as sevenfold. Construction on the
+project is expected to begin as early as 2024.
+00:08:50>00:08:57 Number 5: European route E39 - $30.6B
+Because of Norway’s coastal geography
+00:08:57>00:09:03 being extremely rocky, mountainous, and separated
+by thousands of tiny islands, it has always been
+00:09:03>00:09:09 difficult to navigate. The European route E39
+tries to solve this very problem by providing an
+00:09:09>00:09:16 easy to traverse path along the Norwegian coast.
+But even with the E39 in place, the 1,300 km long
+00:09:16>00:09:20 route still does not solve the problem
+of creating a continuous path along the
+00:09:20>00:09:26 entire Norwegian coast. This is because the
+E39, despite being designated as a single
+00:09:26>00:09:28 highway that goes all the way from Denmark up
+to the middle of Norway, is actually composed
+00:09:28>00:09:33 of many different sections across vast stretches
+of water. Driving through the entire route would
+00:09:33>00:09:39 require travelers to board seven different ferry
+connections and would take at least an entire day.
+00:09:39>00:09:44 However, this is all about to change as the
+Norwegian government is planning to cut the
+00:09:44>00:09:50 20+ hours of travel time in half. They plan
+to achieve this by completely eliminating all
+00:09:50>00:09:54 the required ferry connections. This will be
+done through a series of tunnels and bridges
+00:09:54>00:09:59 that would bypass the water crossings along the
+route. Essentially creating a continuous path from
+00:09:59>00:10:02 Aalborg in Denmark, up to Trondheim in Norway.
+One vital part of this upgrade to the E39 is
+00:10:02>00:10:08 the Rogfast Subsea Tunnel which would connect
+the city of Stavanger and Bokn in Norway under
+00:10:08>00:10:13 a 15-kilometer stretch of water. If completed,
+the tunnel would become the world’s longest and
+00:10:13>00:10:19 deepest road tunnel with a length of 27 km
+and a depth of almost 400 meters below the
+00:10:19>00:10:26 surface. Work on the tunnel began back in 2018
+and it is currently expected to open in 2033.
+00:10:26>00:10:31 The project also calls for the creation of
+four individual floating highways that would
+00:10:31>00:10:36 carry the E39 across some of Norway’s
+largest, and most breathtaking fjords.
+00:10:36>00:10:41 One of these planned bridges would go over the
+Bjørnafjorden and span a total of five kilometers
+00:10:41>00:10:45 above the water. Once completed, this floating
+bridge would become the longest in the world;
+00:10:45>00:10:52 more than doubling the current record.
+Number 4: Grand Paris Express - $38B
+00:10:53>00:10:59 The Paris Metro is one of the busiest metro
+systems in the entire world, seeing as much as 4
+00:10:59>00:11:00 million passengers each day. It is also known for
+its iconic entrances all built in the early 1900s
+00:11:00>00:11:03 in the Art Nouveau architectural style. Being
+one of the most visited cities in the world,
+00:11:03>00:11:08 Paris suffers from the worst traffic congestions
+in Europe. To combat this worsening problem,
+00:11:08>00:11:12 it has been a top priority for the city
+government to build infrastructure that would
+00:11:12>00:11:16 facilitate the millions of commuters
+that pass through Paris every day.
+00:11:16>00:11:22 One major project that is aimed to combat Paris’
+worsening traffic is the Grand Paris Express. The
+00:11:22>00:11:27 largest transport project in the city which aims
+to further increase the reach and connectivity
+00:11:27>00:11:32 of the already intricate Paris Metro. The project
+calls for the creation of four entirely new lines
+00:11:32>00:11:38 and the extension of two existing ones. In
+total, the Grand Paris Express is expected
+00:11:38>00:11:44 to create 200 km of new tracks along with 68
+new stations capable of serving an additional 2
+00:11:44>00:11:50 million passengers daily. Construction of the new
+lines began back in 2015 and is currently being
+00:11:50>00:11:55 constructed in phases up to the year 2030.
+Before we get to the top 3 biggest
+00:11:55>00:11:59 megaprojects in Europe, we want to thank
+Squarespace for sponsoring this video.
+00:11:59>00:12:03 With Squarespace you can create your own
+beautiful website in a super easy way.
+00:12:03>00:12:09 We actually built our own Top Luxury website by
+using their fully customizable templates and their
+00:12:09>00:12:14 simple drag-and-drop Fluid Engine. The process
+is super easy and it only took a couple of hours.
+00:12:14>00:12:18 But Squarespace offers more than their simple
+website builder. You can easily connect
+00:12:18>00:12:24 third-party extensions or use their powerful
+built-in tools. For example, we are using the
+00:12:24>00:12:29 blogging tool which allows us to automatically
+schedule articles about new megaprojects. So
+00:12:29>00:12:33 whenever we upload a YouTube video, we can
+also share it as an article on our website.
+00:12:33>00:12:38 And their website analytics tool gives us
+powerful insights about who is visiting
+00:12:38>00:12:41 our website and how they're
+interacting with our content.
+00:12:41>00:12:45 If you want to get started you can head
+to Squarespace.com for a free trial,
+00:12:45>00:12:51 and when you're ready to launch, go to
+squarespace.com/topluxury to save 10%
+00:12:51>00:12:54 off your first purchase of a website or domain.
+00:12:54>00:12:56 Now, let's continue with
+00:12:56>00:13:00 Number 3: Hinkley Point C
+Nuclear Power Station - $47B
+00:13:01>00:13:06 Nuclear power plants are notoriously
+known to be both very expensive to build,
+00:13:06>00:13:12 and extremely costly to decommission. However, if
+managed properly, their benefits can far outweigh
+00:13:12>00:13:16 their initial costs. So when the Hinkley Point
+C Nuclear Power Station in the United Kingdom
+00:13:16>00:13:22 was first proposed in 2010 it was met with
+mixed opinions from the British people. But
+00:13:22>00:13:26 with substantial financial backing from both
+French and British energy companies, everything
+00:13:26>00:13:31 was looking quite well for the new plant.
+Hinkley Point C is part of a new generation of
+00:13:31>00:13:37 nuclear power plants that are meant to replace the
+country’s old, costly, and inefficient plants. The
+00:13:37>00:13:43 project was initially slated to complete in the
+early 2020s and have a total capacity of 3.2GW,
+00:13:43>00:13:49 enough to supply 7% of the entire country’s
+energy needs. However, the construction was
+00:13:49>00:13:55 unfortunately met with multiple delays that pushed
+its completion date by 8 years and saw its cost
+00:13:55>00:14:00 balloon to more than double of initial estimates.
+For one, one of Hinkley Point C’s financial
+00:14:00>00:14:06 backers withdrew from the project back in 2013
+amidst rising construction costs caused by
+00:14:06>00:14:12 the 2011 Fukushima disaster. The COVID-19
+pandemic further exacerbated the already
+00:14:12>00:14:17 delayed project with supply chain complications
+and cutting down on people working on the site.
+00:14:17>00:14:24 Today, the project is still under construction and
+is now estimated to cost as much as $47 billion,
+00:14:24>00:14:27 more than twice of its initial price
+tag with the completion date being
+00:14:27>00:14:34 pushed back to as far as 2028.
+Number 2: High Speed 2 - $132B
+00:14:35>00:14:40 When the high-speed train connection between
+London and the Channel Tunnel opened in 2007,
+00:14:40>00:14:45 it was met with huge success.
+Constructed on time and under budget,
+00:14:45>00:14:49 High Speed 1 managed to significantly reduce
+the travel time between London and Paris.
+00:14:49>00:14:54 Because of its unprecedented success, the British
+government looked to create a second high-speed
+00:14:54>00:15:00 line that would connect the British capital to
+major city centers to its north. So in 2009,
+00:15:00>00:15:05 the Department for Transportation started to
+draw up plans for a second high-speed train
+00:15:05>00:15:10 line which would aptly be called High Speed 2.
+High Speed 2’s construction will be done in two
+00:15:10>00:15:15 phases: one going from London to Birmingham,
+and another from Birmingham to Manchester and
+00:15:15>00:15:20 the East Midlands Parkway. As of 2020, the
+estimated budget for the entire project is
+00:15:20>00:15:26 known to go for as much as $132B and will
+become the biggest transport investment
+00:15:26>00:15:31 program in the country in over a century.
+Construction work on the new high-speed line
+00:15:31>00:15:36 started back in 2020 with the creation of viaducts
+and tunnels that would carry the line over and
+00:15:36>00:15:42 under different terrain. The project is estimated
+to be completed some time in the early 2030s.
+00:15:43>00:15:52 Number 1: Trans-European Transport Network - $625B
+The European Union is known for its vast and
+00:15:52>00:15:57 interconnected web of roads, railways, and
+airports that make it extremely easy for people to
+00:15:57>00:16:04 go in and out of different countries. In fact, 27
+European countries are all part of what is called
+00:16:04>00:16:09 the Schengen Area. Travel between countries within
+this area is largely free of border controls
+00:16:09>00:16:13 and functions as a single jurisdiction
+all covered under a single visa policy.
+00:16:13>00:16:18 As part of an effort to further connect the
+European nations and make travel easier,
+00:16:18>00:16:23 the EU drafted plans to create what is
+essentially an all encompassing transport
+00:16:23>00:16:28 network across the entire continent. The
+Trans-European Transport Network is a
+00:16:28>00:16:33 long-term project that will consist of roads,
+railways, airports, seaports, waterways, and
+00:16:33>00:16:38 telecommunications infrastructure that would
+solidify the EU as a single interconnected
+00:16:38>00:16:43 entity. The entire project will be divided into
+nine different sections called core network
+00:16:43>00:16:49 corridors that would cover all major population
+centers across Europe. The entire project is
+00:16:49>00:16:56 estimated to cost as much as $625B and
+is envisioned to be completed by 2050.
+00:16:56>00:17:01 One notable part of this ambitious vision
+is the Fehmarn Belt Tunnel that will connect
+00:17:01>00:17:06 the German island of Fehmarn to Lolland in
+Denmark. The project started back in 2021
+00:17:06>00:17:12 and once completed in 2029, it would become the
+world’s longest road and rail tunnel. This vital
+00:17:12>00:17:16 piece of infrastructure would drastically
+reduce the travel time between the Danish
+00:17:16>00:17:21 capital of Copenhagen to the German city of
+Hamburg and the rest of continental Europe.
+00:17:22>00:17:26 Another interesting part of the project
+is the Mont Cenis Base Tunnel which will
+00:17:26>00:17:30 cross the Alps and connect Italy and
+France through high-speed rail. It
+00:17:30>00:17:31 is part of the greater Lyon-Turin rail link
+project meant to bring together both country’s
+00:17:31>00:17:37 rail networks for easier trade and travel. At
+a length of 58 kilometers, the Mont Cenis Base
+00:17:37>00:17:42 Tunnel is set to become the world’s longest rail
+tunnel once it is completed some time in 2030.
+00:17:43>00:17:48 Which of these projects are you most excited
+to see? Let us know in the comments below.
+00:17:48>00:17:52 If you want to see more about similar
+projects, you should watch our video about
+00:17:52>00:17:57 the Top 10 Megaprojects in the USA. Thank you for
+watching, and we will see you in the next video!
+""","This video highlights the top 10 megaprojects in Europe, showcasing a variety of ambitious infrastructure and energy developments aimed at improving connectivity, efficiency, and sustainability across the continent. 
+
+1. **Stad Ship Tunnel**: A world-first full-size ship tunnel in Norway to bypass dangerous waters and improve maritime safety, with construction expected to start in 2024.
+
+2. **Frankfurt International Airport Expansion**: Germany's busiest airport is undergoing a $5.7 billion expansion to handle more passengers and cargo.
+
+3. **Istanbul Canal**: A controversial $10-15 billion canal project in Turkey meant to alleviate congestion in the Bosphorus Strait and potentially bypass the Montreux Convention, allowing Turkey to charge for passage.
+
+4. **Hornsea 3 & 4**: The UK's expansion of its offshore wind farms to increase its renewable energy output, particularly Hornsea Projects 3 and 4, which, when completed, would significantly boost wind power generation.
+
+5. **Energy Islands of Denmark**: Denmark's plan to build the world's first energy islands, connecting massive offshore wind farms to the power grid to expand wind energy capacity sevenfold.
+
+6. **European route E39**: A $30.6 billion project to improve a major coastal route in Norway with tunnels and bridges, eliminating ferry connections and reducing travel time.
+
+7. **Grand Paris Express**: A major $38 billion expansion of the Paris Metro system to increase reach and connectivity, with new lines and station additions planned.
+
+8. **Hinkley Point C Nuclear Power Station**: A new generation UK nuclear power plant with a controversial price tag of $47 billion, aimed at replacing older facilities and providing substantial power.
+
+9. **High Speed 2**: A $132 billion high-speed rail project in the UK to connect London to central and northern cities, slated to be completed in the 2030s.
+
+10. **Trans-European Transport Network**: An overarching $625 billion EU initiative aiming to create a comprehensive transport network by 2050, featuring roads, railways, airports, seaports, and more. The Fehmarn Belt Tunnel and Mont Cenis Base Tunnel are two significant parts of this extensive European connectivity project.
+
+Additionally, the video is sponsored by Squarespace, and the creators detail their personal use of the platform for website development and management. 
+
+The video ends by asking viewers which project they are most excited to see and provides a call-to-action to watch a related video about megaprojects in the USA.","The transcript outlines the top 10 megaprojects in Europe. These projects include the Stad Ship Tunnel in Norway, the Frankfurt International Airport Expansion, the Istanbul Canal in Turkey, the Hornsea 3 & 4 offshore wind farms in the UK, the Energy Islands of Denmark, the European route E39 in Norway, the Grand Paris Express in France, the Hinkley Point C Nuclear Power Station in the UK, the High Speed 2 railway project in the UK, and the Trans-European Transport Network. The projects range from ship tunnels to airport expansions, offshore wind farms, and railway networks. The costs and details of each project are provided, as well as their estimated completion dates.","Sure, here's a summary of the top 10 megaprojects in Europe:
+
+Stad Ship Tunnel (Norway) - $272M
+The world's first full-size ship tunnel, bypassing the dangerous Stadhavet Sea
+1.8 km long, 50 m wide, 36 m high
+Can accommodate 120 ships per day
+Expected to begin construction in 2024 and finish by 2026
+Frankfurt International Airport Expansion Project (Germany) - $5.7B
+Expansion of the airport's oldest terminal, extending its length by 800 m
+New 2.8 km runway built in 2011, allowing for simultaneous landings
+New third terminal under construction, expected to open in 2026
+Istanbul Canal (Turkey) - $10-15B
+Artificial waterway that would cut through the European side of Istanbul
+45 km long, estimated to cost $15 billion
+Expected to take seven years to complete
+Would bypass the Bosphorus Strait, allowing for increased shipping traffic
+Hornsea 3 & 4 (UK) - $19.2B
+Offshore wind farm located in the North Sea, 80 km east of the English coast
+Hornsea 3 expected to generate 2.8 GW of power, Hornsea 4 expected to generate 2.3 GW
+Combined, the two wind farms will have a capacity of 5.1 GW
+Expected to be completed by 2027
+Energy Islands of Denmark - $30B
+Two large-scale offshore wind farms located in the North and Baltic Seas
+Artificial island in the North Sea will act as a central hub
+Total capacity of up to 10 GW, enough to serve 10 million European households
+Expected to be completed by 2030
+European route E39 (Norway) - $30.6B
+1,300 km long route that tries to provide an easy-to-traverse path along the Norwegian coast
+Currently composed of many different sections across vast stretches of water, requiring seven ferry connections
+Norwegian government plans to eliminate all ferry connections by building tunnels and bridges, cutting travel time in half
+These are the top 10 megaprojects in Europe, with a focus on their costs, locations, and expected completion dates.","The top 10 megaprojects in Europe are:
+
+Stad Ship Tunnel - $272 million
+Frankfurt International Airport Expansion Project - $5.7 billion
+Istanbul Canal - $10-15 billion
+Hornsea 3 & 4 - $19.2 billion
+Energy Islands of Denmark - $30 billion
+European route E39 - $30.6 billion
+Fehmarn Belt Fixed Link - $7.4 billion
+Grand Paris Express - $33.8 billion
+Fehmarn Belt Fixed Link - $10.2 billion
+Trans-European Transport Network - $625 billion
+These projects are all ambitious and will have a significant impact on the European economy and infrastructure. They are expected to create jobs, improve transportation links, and reduce environmental pollution."
